@@ -1,0 +1,2266 @@
+.:
+total 824K
+drwxr-xr-x.  2 luxcium luxcium 4,0K 27 oct  2022 build
+-rwxrwxrwx   1 luxcium luxcium 147K 24 avr 21:11 bun.lockb
+-rw-rw-r--.  1 luxcium luxcium  151 27 oct  2022 changelog.config.json
+-rw-r--r--   1 luxcium luxcium 142K 24 avr 21:07 CHANGELOG.md
+-rw-r--r--   1 luxcium luxcium  18K 24 avr 21:07 CONTRIBUTING.md
+-rw-r--r--   1 luxcium luxcium  185 24 avr 21:07 .editorconfig
+-rw-rw-r--.  1 luxcium luxcium    8 27 oct  2022 .eslintignore
+-rw-r--r--   1 luxcium luxcium 1,1K 24 avr 21:07 .eslintrc.json
+drwxr-xr-x.  8 luxcium luxcium 4,0K 24 avr 21:12 .git
+-rw-r--r--   1 luxcium luxcium  161 24 avr 21:07 .gitattributes
+drwxr-xr-x.  5 luxcium luxcium 4,0K 17 fév 17:01 .github
+-rw-r--r--   1 luxcium luxcium  211 17 fév 17:01 .gitignore
+drwxr-xr-x.  3 luxcium luxcium  36K 24 avr 21:07 icons
+drwxr-xr-x.  3 luxcium luxcium 4,0K 24 avr 21:07 images
+-rw-rw-r--.  1 luxcium luxcium 1,1K 27 oct  2022 LICENSE.md
+-rw-r--r--   1 luxcium luxcium    0 24 avr 21:17 listings.txt
+-rw-rw-r--.  1 luxcium luxcium  18K 27 oct  2022 logo.png
+-rw-rw-r--.  1 luxcium luxcium 1,3K 27 oct  2022 logo.svg
+-rw-rw-r--.  1 luxcium luxcium 6,9K 27 oct  2022 material-colors.yml
+-rw-r--r--   1 luxcium luxcium 8,5K 24 avr 21:07 package.json
+-rw-r--r--   1 luxcium luxcium 290K 24 avr 21:07 package-lock.json
+-rw-r--r--   1 luxcium luxcium 2,3K 17 fév 17:01 package.nls.cs.json
+-rw-r--r--   1 luxcium luxcium 2,4K 17 fév 17:01 package.nls.de.json
+-rw-r--r--   1 luxcium luxcium 2,5K 24 avr 21:07 package.nls.es.json
+-rw-r--r--   1 luxcium luxcium 2,2K 17 fév 17:01 package.nls.fr.json
+-rw-r--r--   1 luxcium luxcium 2,7K 17 fév 17:01 package.nls.ja.json
+-rw-r--r--   1 luxcium luxcium 2,3K 17 fév 17:01 package.nls.json
+-rw-r--r--   1 luxcium luxcium 2,4K 24 avr 21:07 package.nls.ko.json
+-rw-r--r--   1 luxcium luxcium 2,2K 17 fév 17:01 package.nls.nl.json
+-rw-r--r--   1 luxcium luxcium 2,2K 17 fév 17:01 package.nls.pl.json
+-rw-r--r--   1 luxcium luxcium 2,2K 17 fév 17:01 package.nls.pt-BR.json
+-rw-r--r--   1 luxcium luxcium 2,2K 17 fév 17:01 package.nls.pt-PT.json
+-rw-r--r--   1 luxcium luxcium 2,7K 17 fév 17:01 package.nls.ru.json
+-rw-r--r--   1 luxcium luxcium 2,0K 17 fév 17:01 package.nls.zh-CN.json
+-rw-r--r--   1 luxcium luxcium 2,0K 17 fév 17:01 package.nls.zh-TW.json
+-rw-r--r--   1 luxcium luxcium  106 24 avr 21:07 .prettierrc
+-rw-r--r--   1 luxcium luxcium 8,6K 17 fév 17:01 README.md
+drwxr-xr-x. 10 luxcium luxcium 4,0K 17 fév 17:01 src
+-rw-rw-r--.  1 luxcium luxcium  249 27 oct  2022 svgo.config.js
+-rw-r--r--   1 luxcium luxcium  555 24 avr 21:07 tsconfig.json
+drwxr-xr-x.  2 luxcium luxcium 4,0K 17 fév 17:01 .vscode
+-rw-r--r--   1 luxcium luxcium  284 17 fév 17:01 .vscodeignore
+
+./build:
+total 8,0K
+-rw-rw-r--. 1 luxcium luxcium 1,7K 27 oct  2022 web-extension.webpack.config.js
+-rw-rw-r--. 1 luxcium luxcium  745 27 oct  2022 webpack.config.js
+
+./.git:
+total 224K
+drwxr-xr-x.  2 luxcium luxcium 4,0K 27 oct  2022 branches
+-rw-rw-r--   1 luxcium luxcium  393 24 avr 21:11 config
+-rw-rw-r--.  1 luxcium luxcium   73 27 oct  2022 description
+-rw-rw-r--.  1 luxcium luxcium  391 24 avr 21:15 FETCH_HEAD
+-rw-r--r--   1 luxcium luxcium   21 24 avr 21:11 HEAD
+drwxr-xr-x.  2 luxcium luxcium 4,0K 27 oct  2022 hooks
+-rw-r--r--   1 luxcium luxcium 170K 24 avr 21:12 index
+drwxr-xr-x.  2 luxcium luxcium 4,0K 27 oct  2022 info
+drwxr-xr-x.  3 luxcium luxcium 4,0K 27 oct  2022 logs
+drwxr-xr-x. 25 luxcium luxcium 4,0K 24 avr 21:15 objects
+-rw-r--r--   1 luxcium luxcium   41 17 fév 17:02 ORIG_HEAD
+-rw-r--r--   1 luxcium luxcium 4,8K 17 fév 17:01 packed-refs
+drwxr-xr-x.  5 luxcium luxcium 4,0K 17 fév 17:01 refs
+
+./.git/branches:
+total 0
+
+./.git/hooks:
+total 60K
+-rwxrwxr-x. 1 luxcium luxcium  478 27 oct  2022 applypatch-msg.sample
+-rwxrwxr-x. 1 luxcium luxcium  896 27 oct  2022 commit-msg.sample
+-rwxrwxr-x. 1 luxcium luxcium 4,7K 27 oct  2022 fsmonitor-watchman.sample
+-rwxrwxr-x. 1 luxcium luxcium  189 27 oct  2022 post-update.sample
+-rwxrwxr-x. 1 luxcium luxcium  424 27 oct  2022 pre-applypatch.sample
+-rwxrwxr-x. 1 luxcium luxcium 1,7K 27 oct  2022 pre-commit.sample
+-rwxrwxr-x. 1 luxcium luxcium  416 27 oct  2022 pre-merge-commit.sample
+-rwxrwxr-x. 1 luxcium luxcium 1,5K 27 oct  2022 prepare-commit-msg.sample
+-rwxrwxr-x. 1 luxcium luxcium 1,4K 27 oct  2022 pre-push.sample
+-rwxrwxr-x. 1 luxcium luxcium 4,8K 27 oct  2022 pre-rebase.sample
+-rwxrwxr-x. 1 luxcium luxcium  544 27 oct  2022 pre-receive.sample
+-rwxrwxr-x. 1 luxcium luxcium 2,8K 27 oct  2022 push-to-checkout.sample
+-rwxrwxr-x. 1 luxcium luxcium 3,6K 27 oct  2022 update.sample
+
+./.git/info:
+total 4,0K
+-rw-rw-r--. 1 luxcium luxcium 240 27 oct  2022 exclude
+
+./.git/logs:
+total 8,0K
+-rw-rw-r--. 1 luxcium luxcium 1,1K 24 avr 21:11 HEAD
+drwxr-xr-x. 4 luxcium luxcium 4,0K 17 fév 17:01 refs
+
+./.git/logs/refs:
+total 12K
+drwxr-xr-x. 2 luxcium luxcium 4,0K 24 avr 21:11 heads
+drwxr-xr-x. 3 luxcium luxcium 4,0K 27 oct  2022 remotes
+-rw-r--r--  1 luxcium luxcium  233 17 fév 17:01 stash
+
+./.git/logs/refs/heads:
+total 8,0K
+-rw-r--r--  1 luxcium luxcium 163 24 avr 21:11 luxcium
+-rw-rw-r--. 1 luxcium luxcium 556 24 avr 21:07 main
+
+./.git/logs/refs/remotes:
+total 4,0K
+drwxr-xr-x. 2 luxcium luxcium 4,0K  9 avr 14:38 origin
+
+./.git/logs/refs/remotes/origin:
+total 16K
+-rw-r--r--  1 luxcium luxcium 165  9 avr 14:38 1782-icon-request-cloudflare
+-rw-r--r--  1 luxcium luxcium 165 17 fév 17:01 copilot-icon
+-rw-rw-r--. 1 luxcium luxcium 215 27 oct  2022 HEAD
+-rw-r--r--  1 luxcium luxcium 496 24 avr 21:07 main
+
+./.git/objects:
+total 92K
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 1f
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 34
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 3a
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 42
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 44
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 63
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 66
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 6e
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 7f
+drwxr-xr-x  2 luxcium luxcium 4,0K 24 avr 21:12 8a
+drwxr-xr-x  2 luxcium luxcium 4,0K 24 avr 21:08 9b
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 b1
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 b5
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 c4
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 c7
+drwxr-xr-x  2 luxcium luxcium 4,0K 24 avr 21:08 c8
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 cb
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 ce
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 e2
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 fc
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 fe
+drwxr-xr-x. 2 luxcium luxcium 4,0K 27 oct  2022 info
+drwxr-xr-x. 2 luxcium luxcium 4,0K 24 avr 21:07 pack
+
+./.git/objects/1f:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 493 17 fév 17:01 29037fc8cda33aef0846cf4f688df112e311ae
+
+./.git/objects/34:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 3343e30513e35a92b93a326ae3f353230bfa3c
+
+./.git/objects/3a:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 130 17 fév 17:01 929e223ce476c015f2022a2fc7989d3e3d952b
+
+./.git/objects/42:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 3,7K 24 avr 21:08 7be839e8ec3da7ab4e724fd582cc482aff46cc
+
+./.git/objects/44:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 e3ff978791d3ceafca75cbdde283b4aaa94d92
+
+./.git/objects/63:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 1001 17 fév 17:01 4c084af71199ca801580af83c56615e6ecc566
+
+./.git/objects/66:
+total 8,0K
+-r--r--r-- 1 luxcium luxcium 441 17 fév 17:01 5dac7fb135716141e8067b76975fd654427330
+-r--r--r-- 1 luxcium luxcium 198 17 fév 17:01 f8e77f2dd8a4a640d3b59c4198138aff06ae6e
+
+./.git/objects/6e:
+total 8,0K
+-r--r--r-- 1 luxcium luxcium 222 17 fév 17:01 181b3faca2fc104c19ef17b5d9997049d99ddc
+-r--r--r-- 1 luxcium luxcium 421 17 fév 17:01 7470886a3afc1188038892cc27ca7847b15fc7
+
+./.git/objects/7f:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 34a9b5d9d371ceb7126f0782aaf9f6716e0564
+
+./.git/objects/8a:
+total 56K
+-r--r--r-- 1 luxcium luxcium 53K 24 avr 21:12 59e692e4b32291d227453cd94cf2d2eac9e75a
+
+./.git/objects/9b:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 1,3K 24 avr 21:08 1cd0124e4a7b899a42653cf534f6b0bd104cbe
+
+./.git/objects/b1:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 484 17 fév 17:01 c928930c70b694d1c843e60843295f5350b10e
+
+./.git/objects/b5:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 278 17 fév 17:01 488d609e8329820015821831f29d6d3c0cb06f
+
+./.git/objects/c4:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 323 17 fév 17:01 ed1db2f4b05e8c7cd30c92b6eabc5969b7f0ec
+
+./.git/objects/c7:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 162 24 avr 21:08 156af8f581fc95db236954bf8ee51faa34fb3c
+
+./.git/objects/c8:
+total 28K
+-r--r--r-- 1 luxcium luxcium 25K 24 avr 21:08 b4436ad4c32f902c655c5bac95b5f1babd1ff4
+
+./.git/objects/cb:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 7dd1a102d2465c1d9fc66d8464517eacb2e877
+
+./.git/objects/ce:
+total 40K
+-r--r--r-- 1 luxcium luxcium 38K 24 avr 21:08 0cb5b00bf65f7405bd0e11c29355d64c379bb4
+
+./.git/objects/e2:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 a1939d273298dde45cc8c8333ef8c9c26369b3
+
+./.git/objects/fc:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 414 17 fév 17:01 edd34d69431aa96ad3c434c5367a54136d9c9d
+
+./.git/objects/fe:
+total 4,0K
+-r--r--r-- 1 luxcium luxcium 2,0K 17 fév 17:01 18d21cb7e5f8ac28a990cb761e235f7fa28914
+
+./.git/objects/info:
+total 0
+
+./.git/objects/pack:
+total 80M
+-r--r--r--. 1 luxcium luxcium 402K 27 oct  2022 pack-01af47940c0c5c9fed2fd97f0d21db22d7fd9ff0.idx
+-r--r--r--. 1 luxcium luxcium  50M 24 avr 21:08 pack-01af47940c0c5c9fed2fd97f0d21db22d7fd9ff0.pack
+-r--r--r--  1 luxcium luxcium  24K  9 avr 14:38 pack-2261f17c71eb23c86941c7776206871884d4920a.idx
+-r--r--r--  1 luxcium luxcium 2,5M  9 avr 14:38 pack-2261f17c71eb23c86941c7776206871884d4920a.pack
+-r--r--r--  1 luxcium luxcium 3,4K  9 avr 14:38 pack-2261f17c71eb23c86941c7776206871884d4920a.rev
+-r--r--r--  1 luxcium luxcium  57K 17 fév 17:01 pack-256b4557a4e3879dda5563be06c6110fd412b499.idx
+-r--r--r--  1 luxcium luxcium  23M 24 avr 21:08 pack-256b4557a4e3879dda5563be06c6110fd412b499.pack
+-r--r--r--  1 luxcium luxcium 8,0K 17 fév 17:01 pack-256b4557a4e3879dda5563be06c6110fd412b499.rev
+-r--r--r--  1 luxcium luxcium 4,7K 24 avr 21:07 pack-83e7d431e652ed3a42b52cf8c6f2fa19b82e169a.idx
+-r--r--r--  1 luxcium luxcium 3,9M 24 avr 21:08 pack-83e7d431e652ed3a42b52cf8c6f2fa19b82e169a.pack
+-r--r--r--  1 luxcium luxcium  584 24 avr 21:07 pack-83e7d431e652ed3a42b52cf8c6f2fa19b82e169a.rev
+
+./.git/refs:
+total 16K
+drwxr-xr-x. 2 luxcium luxcium 4,0K 24 avr 21:11 heads
+drwxr-xr-x. 3 luxcium luxcium 4,0K 27 oct  2022 remotes
+-rw-r--r--  1 luxcium luxcium   41 17 fév 17:01 stash
+drwxr-xr-x. 2 luxcium luxcium 4,0K 24 avr 21:07 tags
+
+./.git/refs/heads:
+total 8,0K
+-rw-r--r-- 1 luxcium luxcium 41 24 avr 21:11 luxcium
+-rw-r--r-- 1 luxcium luxcium 41 24 avr 21:07 main
+
+./.git/refs/remotes:
+total 4,0K
+drwxr-xr-x. 2 luxcium luxcium 4,0K 24 avr 21:07 origin
+
+./.git/refs/remotes/origin:
+total 16K
+-rw-r--r--  1 luxcium luxcium 41  9 avr 14:38 1782-icon-request-cloudflare
+-rw-r--r--  1 luxcium luxcium 41 17 fév 17:01 copilot-icon
+-rw-rw-r--. 1 luxcium luxcium 30 27 oct  2022 HEAD
+-rw-r--r--  1 luxcium luxcium 41 24 avr 21:07 main
+
+./.git/refs/tags:
+total 68K
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.22.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.23.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.23.1
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.24.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.25.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.26.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.27.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.28.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.29.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.30.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.30.1
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.31.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.32.0
+-rw-r--r-- 1 luxcium luxcium 41 17 fév 17:01 v4.33.0
+-rw-r--r-- 1 luxcium luxcium 41  9 avr 14:38 v4.34.0
+-rw-r--r-- 1 luxcium luxcium 41 24 avr 21:07 v5.0.0
+-rw-r--r-- 1 luxcium luxcium 41 24 avr 21:07 v5.1.0
+
+./.github:
+total 16K
+-rw-rw-r--. 1 luxcium luxcium  138 27 oct  2022 FUNDING.yml
+drwxr-xr-x. 2 luxcium luxcium 4,0K 27 oct  2022 ISSUE_TEMPLATE
+drwxr-xr-x  2 luxcium luxcium 4,0K 17 fév 17:01 PULL_REQUEST_TEMPLATE
+drwxr-xr-x. 2 luxcium luxcium 4,0K 24 avr 21:07 workflows
+
+./.github/ISSUE_TEMPLATE:
+total 8,0K
+-rw-rw-r--. 1 luxcium luxcium 756 27 oct  2022 bug_report.md
+-rw-rw-r--. 1 luxcium luxcium 552 27 oct  2022 icon_request.md
+
+./.github/PULL_REQUEST_TEMPLATE:
+total 4,0K
+-rw-r--r-- 1 luxcium luxcium 271 17 fév 17:01 pull_request_template.md
+
+./.github/workflows:
+total 20K
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 build.yml
+-rw-r--r-- 1 luxcium luxcium  587 17 fév 17:01 color-check.yml
+-rw-r--r-- 1 luxcium luxcium 2,3K 24 avr 21:07 icon-review.yml
+-rw-r--r-- 1 luxcium luxcium  689 17 fév 17:01 pr-closed.yml
+-rw-r--r-- 1 luxcium luxcium 2,6K 17 fév 17:01 release.yml
+
+./icons:
+total 3,8M
+-rw-rw-r--. 1 luxcium luxcium  404 27 oct  2022 3d.svg
+-rw-r--r--  1 luxcium luxcium  122 24 avr 21:07 abap.svg
+-rw-rw-r--. 1 luxcium luxcium  768 27 oct  2022 abc.svg
+-rw-r--r--  1 luxcium luxcium  937 24 avr 21:07 actionscript.svg
+-rw-rw-r--. 1 luxcium luxcium  360 27 oct  2022 ada.svg
+-rw-rw-r--. 1 luxcium luxcium  286 27 oct  2022 adonis.svg
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 advpl_include.svg
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 advpl_prw.svg
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 advpl_ptm.svg
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 advpl_tlpp.svg
+-rw-r--r--  1 luxcium luxcium  796 24 avr 21:07 android.svg
+-rw-r--r--  1 luxcium luxcium  317 17 fév 17:01 angular-component.svg
+-rw-r--r--  1 luxcium luxcium  317 17 fév 17:01 angular-directive.svg
+-rw-r--r--  1 luxcium luxcium  317 17 fév 17:01 angular-guard.svg
+-rw-r--r--  1 luxcium luxcium  317 17 fév 17:01 angular-pipe.svg
+-rw-r--r--  1 luxcium luxcium  317 17 fév 17:01 angular-resolver.svg
+-rw-r--r--  1 luxcium luxcium  317 17 fév 17:01 angular-service.svg
+-rw-r--r--  1 luxcium luxcium  317 17 fév 17:01 angular.svg
+-rw-r--r--  1 luxcium luxcium  823 17 fév 17:01 antlr.svg
+-rw-r--r--  1 luxcium luxcium  543 24 avr 21:07 apiblueprint.svg
+-rw-r--r--  1 luxcium luxcium  632 24 avr 21:07 apollo.svg
+-rw-r--r--  1 luxcium luxcium  783 24 avr 21:07 applescript.svg
+-rw-r--r--  1 luxcium luxcium 1004 24 avr 21:07 apps-script.svg
+-rw-rw-r--. 1 luxcium luxcium  780 27 oct  2022 appveyor.svg
+-rw-r--r--  1 luxcium luxcium  762 17 fév 17:01 architecture.svg
+-rw-r--r--  1 luxcium luxcium  635 24 avr 21:07 arduino.svg
+-rw-r--r--  1 luxcium luxcium  483 24 avr 21:07 asciidoc.svg
+-rw-r--r--  1 luxcium luxcium  619 24 avr 21:07 assembly.svg
+-rw-r--r--  1 luxcium luxcium  381 24 avr 21:07 astro.svg
+-rw-r--r--  1 luxcium luxcium  618 17 fév 17:01 astyle.svg
+-rw-r--r--  1 luxcium luxcium  204 24 avr 21:07 audio.svg
+-rw-r--r--  1 luxcium luxcium 4,9K 17 fév 17:01 aurelia.svg
+-rw-rw-r--. 1 luxcium luxcium  559 27 oct  2022 authors.svg
+-rw-r--r--  1 luxcium luxcium 1,8K 24 avr 21:07 autohotkey.svg
+-rw-r--r--  1 luxcium luxcium  438 17 fév 17:01 autoit.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 17 fév 17:01 auto_light.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 17 fév 17:01 auto.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 azure-pipelines.svg
+-rw-r--r--  1 luxcium luxcium  799 24 avr 21:07 azure.svg
+-rw-rw-r--. 1 luxcium luxcium 1,3K 27 oct  2022 babel.svg
+-rw-r--r--  1 luxcium luxcium  221 24 avr 21:07 ballerina.svg
+-rw-r--r--  1 luxcium luxcium  830 17 fév 17:01 bazel.svg
+-rw-rw-r--. 1 luxcium luxcium  284 27 oct  2022 bicep.svg
+-rw-r--r--  1 luxcium luxcium  439 17 fév 17:01 biome.svg
+-rw-r--r--  1 luxcium luxcium  914 17 fév 17:01 bitbucket.svg
+-rw-rw-r--. 1 luxcium luxcium 2,1K 27 oct  2022 bithound.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 17 fév 17:01 blink_light.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 17 fév 17:01 blink.svg
+-rw-r--r--  1 luxcium luxcium  370 17 fév 17:01 blitz.svg
+-rw-rw-r--. 1 luxcium luxcium 3,7K 27 oct  2022 bower.svg
+-rw-r--r--  1 luxcium luxcium 2,0K 17 fév 17:01 brainfuck.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 browserlist_light.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 browserlist.svg
+-rw-r--r--  1 luxcium luxcium  603 24 avr 21:07 bucklescript.svg
+-rw-r--r--  1 luxcium luxcium  707 17 fév 17:01 buck.svg
+-rw-r--r--  1 luxcium luxcium  451 24 avr 21:07 buildkite.svg
+-rw-r--r--  1 luxcium luxcium 2,4K 24 avr 21:07 bun_light.svg
+-rw-r--r--  1 luxcium luxcium 1,4K 24 avr 21:07 bun.svg
+-rw-rw-r--. 1 luxcium luxcium  838 27 oct  2022 cabal.svg
+-rw-r--r--  1 luxcium luxcium  792 24 avr 21:07 caddy.svg
+-rw-r--r--  1 luxcium luxcium  473 24 avr 21:07 cadence.svg
+-rw-r--r--  1 luxcium luxcium  832 24 avr 21:07 cake.svg
+-rw-rw-r--. 1 luxcium luxcium  347 27 oct  2022 capacitor.svg
+-rw-r--r--  1 luxcium luxcium  430 24 avr 21:07 capnp.svg
+-rw-r--r--  1 luxcium luxcium  286 24 avr 21:07 certificate.svg
+-rw-r--r--  1 luxcium luxcium  401 24 avr 21:07 changelog.svg
+-rw-r--r--  1 luxcium luxcium  332 24 avr 21:07 chess_light.svg
+-rw-r--r--  1 luxcium luxcium  332 24 avr 21:07 chess.svg
+-rw-r--r--  1 luxcium luxcium  596 24 avr 21:07 chrome.svg
+-rw-r--r--  1 luxcium luxcium  428 24 avr 21:07 circleci_light.svg
+-rw-r--r--  1 luxcium luxcium  438 24 avr 21:07 circleci.svg
+-rw-rw-r--. 1 luxcium luxcium 2,1K 27 oct  2022 clojure.svg
+-rw-r--r--  1 luxcium luxcium 2,4K 17 fév 17:01 cloudfoundry.svg
+-rw-rw-r--. 1 luxcium luxcium  340 27 oct  2022 cmake.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 coala.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 cobol.svg
+-rw-rw-r--. 1 luxcium luxcium 1,2K 27 oct  2022 coconut.svg
+-rw-rw-r--. 1 luxcium luxcium  383 27 oct  2022 code-climate_light.svg
+-rw-rw-r--. 1 luxcium luxcium  380 27 oct  2022 code-climate.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 17 fév 17:01 codecov.svg
+-rw-rw-r--. 1 luxcium luxcium  287 27 oct  2022 codeowners.svg
+-rw-r--r--  1 luxcium luxcium  293 24 avr 21:07 coffee.svg
+-rw-r--r--  1 luxcium luxcium  620 24 avr 21:07 coldfusion.svg
+-rw-r--r--  1 luxcium luxcium  327 24 avr 21:07 command.svg
+-rw-r--r--  1 luxcium luxcium  516 17 fév 17:01 commitlint.svg
+-rw-r--r--  1 luxcium luxcium 5,9K 17 fév 17:01 concourse.svg
+-rw-rw-r--. 1 luxcium luxcium  318 27 oct  2022 conduct.svg
+-rw-rw-r--. 1 luxcium luxcium  259 27 oct  2022 console.svg
+-rw-rw-r--. 1 luxcium luxcium  310 27 oct  2022 contributing.svg
+-rw-r--r--  1 luxcium luxcium  448 24 avr 21:07 cpp.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 24 avr 21:07 craco.svg
+-rw-r--r--  1 luxcium luxcium  403 24 avr 21:07 credits.svg
+-rw-r--r--  1 luxcium luxcium  498 17 fév 17:01 crystal_light.svg
+-rw-r--r--  1 luxcium luxcium  498 17 fév 17:01 crystal.svg
+-rw-r--r--  1 luxcium luxcium  402 24 avr 21:07 csharp.svg
+-rw-r--r--  1 luxcium luxcium  401 24 avr 21:07 css-map.svg
+-rw-r--r--  1 luxcium luxcium  332 24 avr 21:07 css.svg
+-rw-r--r--  1 luxcium luxcium  283 24 avr 21:07 c.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 17 fév 17:01 cucumber.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 cuda.svg
+-rw-r--r--  1 luxcium luxcium  899 17 fév 17:01 cypress.svg
+-rw-r--r--  1 luxcium luxcium  936 24 avr 21:07 dart_generated.svg
+-rw-r--r--  1 luxcium luxcium  936 24 avr 21:07 dart.svg
+-rw-r--r--  1 luxcium luxcium  429 24 avr 21:07 database.svg
+-rw-r--r--  1 luxcium luxcium  828 24 avr 21:07 denizenscript.svg
+-rw-r--r--  1 luxcium luxcium  558 24 avr 21:07 deno_light.svg
+-rw-r--r--  1 luxcium luxcium 1,7K 24 avr 21:07 deno.svg
+-rw-r--r--  1 luxcium luxcium  768 24 avr 21:07 dependabot.svg
+-rw-rw-r--. 1 luxcium luxcium  367 27 oct  2022 dhall.svg
+-rw-r--r--  1 luxcium luxcium  466 24 avr 21:07 diff.svg
+-rw-r--r--  1 luxcium luxcium 7,6K 17 fév 17:01 dinophp.svg
+-rw-r--r--  1 luxcium luxcium  186 17 fév 17:01 .directory
+-rw-r--r--  1 luxcium luxcium  192 24 avr 21:07 disc.svg
+-rw-r--r--  1 luxcium luxcium  704 24 avr 21:07 django.svg
+-rw-r--r--  1 luxcium luxcium 1001 24 avr 21:07 dll.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 docker.svg
+-rw-r--r--  1 luxcium luxcium  291 24 avr 21:07 document.svg
+-rw-rw-r--. 1 luxcium luxcium  598 27 oct  2022 dotjs.svg
+-rw-r--r--  1 luxcium luxcium  258 24 avr 21:07 drawio.svg
+-rw-r--r--  1 luxcium luxcium  745 17 fév 17:01 drone_light.svg
+-rw-r--r--  1 luxcium luxcium  763 17 fév 17:01 drone.svg
+-rw-r--r--  1 luxcium luxcium  404 24 avr 21:07 d.svg
+-rw-rw-r--. 1 luxcium luxcium  171 27 oct  2022 dune.svg
+-rw-rw-r--. 1 luxcium luxcium  793 27 oct  2022 edge.svg
+-rw-r--r--  1 luxcium luxcium 5,5K 17 fév 17:01 editorconfig.svg
+-rw-rw-r--. 1 luxcium luxcium  438 27 oct  2022 ejs.svg
+-rw-rw-r--. 1 luxcium luxcium  317 27 oct  2022 elixir.svg
+-rw-r--r--  1 luxcium luxcium  555 17 fév 17:01 elm.svg
+-rw-r--r--  1 luxcium luxcium  225 24 avr 21:07 email.svg
+-rw-rw-r--. 1 luxcium luxcium  554 27 oct  2022 ember.svg
+-rw-rw-r--. 1 luxcium luxcium  563 27 oct  2022 erlang.svg
+-rw-r--r--  1 luxcium luxcium  478 17 fév 17:01 esbuild.svg
+-rw-r--r--  1 luxcium luxcium  758 24 avr 21:07 eslint.svg
+-rw-r--r--  1 luxcium luxcium  192 24 avr 21:07 exe.svg
+-rw-rw-r--. 1 luxcium luxcium 2,8K 27 oct  2022 fastlane.svg
+-rw-r--r--  1 luxcium luxcium  157 24 avr 21:07 favicon.svg
+-rw-r--r--  1 luxcium luxcium  685 24 avr 21:07 figma.svg
+-rw-rw-r--. 1 luxcium luxcium  417 27 oct  2022 firebase.svg
+-rw-rw-r--. 1 luxcium luxcium  349 27 oct  2022 flash.svg
+-rw-rw-r--. 1 luxcium luxcium  493 27 oct  2022 flow.svg
+-rw-r--r--  1 luxcium luxcium  802 24 avr 21:07 folder-admin-open.svg
+-rw-r--r--  1 luxcium luxcium  743 24 avr 21:07 folder-admin.svg
+-rw-r--r--  1 luxcium luxcium  615 24 avr 21:07 folder-android-open.svg
+-rw-r--r--  1 luxcium luxcium  556 24 avr 21:07 folder-android.svg
+-rw-r--r--  1 luxcium luxcium  660 24 avr 21:07 folder-angular-open.svg
+-rw-r--r--  1 luxcium luxcium  601 24 avr 21:07 folder-angular.svg
+-rw-r--r--  1 luxcium luxcium  851 24 avr 21:07 folder-animation-open.svg
+-rw-r--r--  1 luxcium luxcium  792 24 avr 21:07 folder-animation.svg
+-rw-r--r--  1 luxcium luxcium  723 24 avr 21:07 folder-ansible-open.svg
+-rw-r--r--  1 luxcium luxcium  664 24 avr 21:07 folder-ansible.svg
+-rw-r--r--  1 luxcium luxcium  787 24 avr 21:07 folder-api-open.svg
+-rw-r--r--  1 luxcium luxcium  728 24 avr 21:07 folder-api.svg
+-rw-r--r--  1 luxcium luxcium  708 24 avr 21:07 folder-apollo-open.svg
+-rw-r--r--  1 luxcium luxcium  649 24 avr 21:07 folder-apollo.svg
+-rw-r--r--  1 luxcium luxcium  956 24 avr 21:07 folder-app-open.svg
+-rw-r--r--  1 luxcium luxcium  897 24 avr 21:07 folder-app.svg
+-rw-r--r--  1 luxcium luxcium  595 24 avr 21:07 folder-archive-open.svg
+-rw-r--r--  1 luxcium luxcium  536 24 avr 21:07 folder-archive.svg
+-rw-r--r--  1 luxcium luxcium  561 24 avr 21:07 folder-audio-open.svg
+-rw-r--r--  1 luxcium luxcium  502 24 avr 21:07 folder-audio.svg
+-rw-r--r--  1 luxcium luxcium 4,6K 24 avr 21:07 folder-aurelia-open.svg
+-rw-r--r--  1 luxcium luxcium 4,6K 24 avr 21:07 folder-aurelia.svg
+-rw-r--r--  1 luxcium luxcium  489 24 avr 21:07 folder-aws-open.svg
+-rw-r--r--  1 luxcium luxcium  449 24 avr 21:07 folder-aws.svg
+-rw-r--r--  1 luxcium luxcium  779 24 avr 21:07 folder-azure-pipelines-open.svg
+-rw-r--r--  1 luxcium luxcium  720 24 avr 21:07 folder-azure-pipelines.svg
+-rw-r--r--  1 luxcium luxcium  397 24 avr 21:07 folder-base-open.svg
+-rw-r--r--  1 luxcium luxcium  338 24 avr 21:07 folder-base.svg
+-rw-r--r--  1 luxcium luxcium  652 24 avr 21:07 folder-batch-open.svg
+-rw-r--r--  1 luxcium luxcium  574 24 avr 21:07 folder-batch.svg
+-rw-r--r--  1 luxcium luxcium  864 24 avr 21:07 folder-benchmark-open.svg
+-rw-r--r--  1 luxcium luxcium  805 24 avr 21:07 folder-benchmark.svg
+-rw-r--r--  1 luxcium luxcium 4,2K 24 avr 21:07 folder-bower-open.svg
+-rw-r--r--  1 luxcium luxcium 4,2K 24 avr 21:07 folder-bower.svg
+-rw-r--r--  1 luxcium luxcium  715 24 avr 21:07 folder-buildkite-open.svg
+-rw-r--r--  1 luxcium luxcium  656 24 avr 21:07 folder-buildkite.svg
+-rw-r--r--  1 luxcium luxcium  644 24 avr 21:07 folder-cart-open.svg
+-rw-r--r--  1 luxcium luxcium  585 24 avr 21:07 folder-cart.svg
+-rw-r--r--  1 luxcium luxcium  750 24 avr 21:07 folder-changesets-open.svg
+-rw-r--r--  1 luxcium luxcium  691 24 avr 21:07 folder-changesets.svg
+-rw-r--r--  1 luxcium luxcium  775 24 avr 21:07 folder-ci-open.svg
+-rw-r--r--  1 luxcium luxcium  725 24 avr 21:07 folder-circleci-open.svg
+-rw-r--r--  1 luxcium luxcium  666 24 avr 21:07 folder-circleci.svg
+-rw-r--r--  1 luxcium luxcium  716 24 avr 21:07 folder-ci.svg
+-rw-r--r--  1 luxcium luxcium  485 24 avr 21:07 folder-class-open.svg
+-rw-r--r--  1 luxcium luxcium  426 24 avr 21:07 folder-class.svg
+-rw-r--r--  1 luxcium luxcium  617 24 avr 21:07 folder-client-open.svg
+-rw-r--r--  1 luxcium luxcium  558 24 avr 21:07 folder-client.svg
+-rw-r--r--  1 luxcium luxcium  479 24 avr 21:07 folder-cloudflare-open.svg
+-rw-r--r--  1 luxcium luxcium  456 24 avr 21:07 folder-cloudflare.svg
+-rw-r--r--  1 luxcium luxcium  528 24 avr 21:07 folder-cluster-open.svg
+-rw-r--r--  1 luxcium luxcium  450 24 avr 21:07 folder-cluster.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 24 avr 21:07 folder-cobol-open.svg
+-rw-r--r--  1 luxcium luxcium 1,4K 24 avr 21:07 folder-cobol.svg
+-rw-r--r--  1 luxcium luxcium  579 24 avr 21:07 folder-command-open.svg
+-rw-r--r--  1 luxcium luxcium  520 24 avr 21:07 folder-command.svg
+-rw-r--r--  1 luxcium luxcium  664 24 avr 21:07 folder-components-open.svg
+-rw-r--r--  1 luxcium luxcium  605 24 avr 21:07 folder-components.svg
+-rw-r--r--  1 luxcium luxcium 1,4K 24 avr 21:07 folder-config-open.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-config.svg
+-rw-r--r--  1 luxcium luxcium  989 24 avr 21:07 folder-connection-open.svg
+-rw-r--r--  1 luxcium luxcium  930 24 avr 21:07 folder-connection.svg
+-rw-r--r--  1 luxcium luxcium  798 24 avr 21:07 folder-console-open.svg
+-rw-r--r--  1 luxcium luxcium  739 24 avr 21:07 folder-console.svg
+-rw-r--r--  1 luxcium luxcium  564 24 avr 21:07 folder-constant-open.svg
+-rw-r--r--  1 luxcium luxcium  486 24 avr 21:07 folder-constant.svg
+-rw-r--r--  1 luxcium luxcium  745 24 avr 21:07 folder-container-open.svg
+-rw-r--r--  1 luxcium luxcium  686 24 avr 21:07 folder-container.svg
+-rw-r--r--  1 luxcium luxcium  624 24 avr 21:07 folder-content-open.svg
+-rw-r--r--  1 luxcium luxcium  565 24 avr 21:07 folder-content.svg
+-rw-r--r--  1 luxcium luxcium  472 24 avr 21:07 folder-context-open.svg
+-rw-r--r--  1 luxcium luxcium  413 24 avr 21:07 folder-context.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-contract-open.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-contract.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-controller-open.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-controller.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 24 avr 21:07 folder-core-open.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 24 avr 21:07 folder-core.svg
+-rw-r--r--  1 luxcium luxcium  570 24 avr 21:07 folder-coverage-open.svg
+-rw-r--r--  1 luxcium luxcium  511 24 avr 21:07 folder-coverage.svg
+-rw-r--r--  1 luxcium luxcium  541 24 avr 21:07 folder-css-open.svg
+-rw-r--r--  1 luxcium luxcium  516 24 avr 21:07 folder-css.svg
+-rw-r--r--  1 luxcium luxcium  606 24 avr 21:07 folder-custom-open.svg
+-rw-r--r--  1 luxcium luxcium  547 24 avr 21:07 folder-custom.svg
+-rw-r--r--  1 luxcium luxcium 1,4K 24 avr 21:07 folder-cypress-open.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-cypress.svg
+-rw-r--r--  1 luxcium luxcium  728 24 avr 21:07 folder-database-open.svg
+-rw-r--r--  1 luxcium luxcium  669 24 avr 21:07 folder-database.svg
+-rw-r--r--  1 luxcium luxcium  692 24 avr 21:07 folder-debug-open.svg
+-rw-r--r--  1 luxcium luxcium  633 24 avr 21:07 folder-debug.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-decorators-open.svg
+-rw-r--r--  1 luxcium luxcium 1,8K 24 avr 21:07 folder-decorators.svg
+-rw-r--r--  1 luxcium luxcium  445 24 avr 21:07 folder-delta-open.svg
+-rw-r--r--  1 luxcium luxcium  367 24 avr 21:07 folder-delta.svg
+-rw-r--r--  1 luxcium luxcium  478 24 avr 21:07 folder-desktop-open.svg
+-rw-r--r--  1 luxcium luxcium  419 24 avr 21:07 folder-desktop.svg
+-rw-r--r--  1 luxcium luxcium  490 24 avr 21:07 folder-dist-open.svg
+-rw-r--r--  1 luxcium luxcium  431 24 avr 21:07 folder-dist.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-docker-open.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-docker.svg
+-rw-r--r--  1 luxcium luxcium  481 24 avr 21:07 folder-docs-open.svg
+-rw-r--r--  1 luxcium luxcium  422 24 avr 21:07 folder-docs.svg
+-rw-r--r--  1 luxcium luxcium  426 24 avr 21:07 folder-download-open.svg
+-rw-r--r--  1 luxcium luxcium  367 24 avr 21:07 folder-download.svg
+-rw-r--r--  1 luxcium luxcium  516 24 avr 21:07 folder-dump-open.svg
+-rw-r--r--  1 luxcium luxcium  438 24 avr 21:07 folder-dump.svg
+-rw-r--r--  1 luxcium luxcium  504 24 avr 21:07 folder-enum-open.svg
+-rw-r--r--  1 luxcium luxcium  426 24 avr 21:07 folder-enum.svg
+-rw-r--r--  1 luxcium luxcium  465 24 avr 21:07 folder-environment-open.svg
+-rw-r--r--  1 luxcium luxcium  406 24 avr 21:07 folder-environment.svg
+-rw-r--r--  1 luxcium luxcium  442 24 avr 21:07 folder-error-open.svg
+-rw-r--r--  1 luxcium luxcium  383 24 avr 21:07 folder-error.svg
+-rw-r--r--  1 luxcium luxcium  600 24 avr 21:07 folder-event-open.svg
+-rw-r--r--  1 luxcium luxcium  541 24 avr 21:07 folder-event.svg
+-rw-r--r--  1 luxcium luxcium  543 24 avr 21:07 folder-examples-open.svg
+-rw-r--r--  1 luxcium luxcium  484 24 avr 21:07 folder-examples.svg
+-rw-r--r--  1 luxcium luxcium  845 24 avr 21:07 folder-expo-open.svg
+-rw-r--r--  1 luxcium luxcium  462 24 avr 21:07 folder-export-open.svg
+-rw-r--r--  1 luxcium luxcium  403 24 avr 21:07 folder-export.svg
+-rw-r--r--  1 luxcium luxcium  786 24 avr 21:07 folder-expo.svg
+-rw-r--r--  1 luxcium luxcium 3,9K 24 avr 21:07 folder-fastlane-open.svg
+-rw-r--r--  1 luxcium luxcium 3,9K 24 avr 21:07 folder-fastlane.svg
+-rw-r--r--  1 luxcium luxcium  779 24 avr 21:07 folder-firebase-open.svg
+-rw-r--r--  1 luxcium luxcium  720 24 avr 21:07 folder-firebase.svg
+-rw-r--r--  1 luxcium luxcium  625 24 avr 21:07 folder-flow-open.svg
+-rw-r--r--  1 luxcium luxcium  566 24 avr 21:07 folder-flow.svg
+-rw-r--r--  1 luxcium luxcium  469 24 avr 21:07 folder-font-open.svg
+-rw-r--r--  1 luxcium luxcium  410 24 avr 21:07 folder-font.svg
+-rw-r--r--  1 luxcium luxcium 1017 24 avr 21:07 folder-functions-open.svg
+-rw-r--r--  1 luxcium luxcium  958 24 avr 21:07 folder-functions.svg
+-rw-r--r--  1 luxcium luxcium  525 24 avr 21:07 folder-gamemaker-open.svg
+-rw-r--r--  1 luxcium luxcium  466 24 avr 21:07 folder-gamemaker.svg
+-rw-r--r--  1 luxcium luxcium  775 24 avr 21:07 folder-generator-open.svg
+-rw-r--r--  1 luxcium luxcium  716 24 avr 21:07 folder-generator.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-github-open.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-github.svg
+-rw-r--r--  1 luxcium luxcium 1,4K 24 avr 21:07 folder-gitlab-open.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-gitlab.svg
+-rw-r--r--  1 luxcium luxcium  961 24 avr 21:07 folder-git-open.svg
+-rw-r--r--  1 luxcium luxcium  902 24 avr 21:07 folder-git.svg
+-rw-r--r--  1 luxcium luxcium  673 24 avr 21:07 folder-global-open.svg
+-rw-r--r--  1 luxcium luxcium  614 24 avr 21:07 folder-global.svg
+-rw-r--r--  1 luxcium luxcium 2,2K 24 avr 21:07 folder-godot-open.svg
+-rw-r--r--  1 luxcium luxcium 2,1K 24 avr 21:07 folder-godot.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-gradle-open.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-gradle.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 24 avr 21:07 folder-graphql-open.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 24 avr 21:07 folder-graphql.svg
+-rw-r--r--  1 luxcium luxcium  503 24 avr 21:07 folder-guard-open.svg
+-rw-r--r--  1 luxcium luxcium  444 24 avr 21:07 folder-guard.svg
+-rw-r--r--  1 luxcium luxcium  490 24 avr 21:07 folder-gulp-open.svg
+-rw-r--r--  1 luxcium luxcium  431 24 avr 21:07 folder-gulp.svg
+-rw-r--r--  1 luxcium luxcium  754 24 avr 21:07 folder-helper-open.svg
+-rw-r--r--  1 luxcium luxcium  695 24 avr 21:07 folder-helper.svg
+-rw-r--r--  1 luxcium luxcium  456 24 avr 21:07 folder-home-open.svg
+-rw-r--r--  1 luxcium luxcium  397 24 avr 21:07 folder-home.svg
+-rw-r--r--  1 luxcium luxcium  577 24 avr 21:07 folder-hook-open.svg
+-rw-r--r--  1 luxcium luxcium  518 24 avr 21:07 folder-hook.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 24 avr 21:07 folder-husky-open.svg
+-rw-r--r--  1 luxcium luxcium 1,4K 24 avr 21:07 folder-husky.svg
+-rw-r--r--  1 luxcium luxcium  835 24 avr 21:07 folder-i18n-open.svg
+-rw-r--r--  1 luxcium luxcium  776 24 avr 21:07 folder-i18n.svg
+-rw-r--r--  1 luxcium luxcium  522 24 avr 21:07 folder-images-open.svg
+-rw-r--r--  1 luxcium luxcium  463 24 avr 21:07 folder-images.svg
+-rw-r--r--  1 luxcium luxcium  447 24 avr 21:07 folder-import-open.svg
+-rw-r--r--  1 luxcium luxcium  388 24 avr 21:07 folder-import.svg
+-rw-r--r--  1 luxcium luxcium  447 24 avr 21:07 folder-include-open.svg
+-rw-r--r--  1 luxcium luxcium  388 24 avr 21:07 folder-include.svg
+-rw-r--r--  1 luxcium luxcium 2,9K 24 avr 21:07 folder-intellij_light.svg
+-rw-r--r--  1 luxcium luxcium 3,0K 24 avr 21:07 folder-intellij-open_light.svg
+-rw-r--r--  1 luxcium luxcium 3,0K 24 avr 21:07 folder-intellij-open.svg
+-rw-r--r--  1 luxcium luxcium 2,9K 24 avr 21:07 folder-intellij.svg
+-rw-r--r--  1 luxcium luxcium  485 24 avr 21:07 folder-interface-open.svg
+-rw-r--r--  1 luxcium luxcium  426 24 avr 21:07 folder-interface.svg
+-rw-r--r--  1 luxcium luxcium  771 24 avr 21:07 folder-ios-open.svg
+-rw-r--r--  1 luxcium luxcium  712 24 avr 21:07 folder-ios.svg
+-rw-r--r--  1 luxcium luxcium  554 24 avr 21:07 folder-java-open.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-javascript-open.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-javascript.svg
+-rw-r--r--  1 luxcium luxcium  495 24 avr 21:07 folder-java.svg
+-rw-r--r--  1 luxcium luxcium  625 24 avr 21:07 folder-jinja_light.svg
+-rw-r--r--  1 luxcium luxcium  684 24 avr 21:07 folder-jinja-open_light.svg
+-rw-r--r--  1 luxcium luxcium  684 24 avr 21:07 folder-jinja-open.svg
+-rw-r--r--  1 luxcium luxcium  625 24 avr 21:07 folder-jinja.svg
+-rw-r--r--  1 luxcium luxcium  575 24 avr 21:07 folder-job-open.svg
+-rw-r--r--  1 luxcium luxcium  516 24 avr 21:07 folder-job.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-json-open.svg
+-rw-r--r--  1 luxcium luxcium  955 24 avr 21:07 folder-json.svg
+-rw-r--r--  1 luxcium luxcium  486 24 avr 21:07 folder-keys-open.svg
+-rw-r--r--  1 luxcium luxcium  408 24 avr 21:07 folder-keys.svg
+-rw-r--r--  1 luxcium luxcium 4,5K 24 avr 21:07 folder-kubernetes-open.svg
+-rw-r--r--  1 luxcium luxcium 4,5K 24 avr 21:07 folder-kubernetes.svg
+-rw-r--r--  1 luxcium luxcium  613 24 avr 21:07 folder-layout-open.svg
+-rw-r--r--  1 luxcium luxcium  554 24 avr 21:07 folder-layout.svg
+-rw-r--r--  1 luxcium luxcium  692 24 avr 21:07 folder-less-open.svg
+-rw-r--r--  1 luxcium luxcium  633 24 avr 21:07 folder-less.svg
+-rw-r--r--  1 luxcium luxcium  641 24 avr 21:07 folder-lib-open.svg
+-rw-r--r--  1 luxcium luxcium  605 24 avr 21:07 folder-lib.svg
+-rw-r--r--  1 luxcium luxcium 1,4K 24 avr 21:07 folder-linux-open.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-linux.svg
+-rw-r--r--  1 luxcium luxcium  578 24 avr 21:07 folder-log-open.svg
+-rw-r--r--  1 luxcium luxcium  720 24 avr 21:07 folder-log.svg
+-rw-r--r--  1 luxcium luxcium  782 24 avr 21:07 folder-lottie-open.svg
+-rw-r--r--  1 luxcium luxcium  723 24 avr 21:07 folder-lottie.svg
+-rw-r--r--  1 luxcium luxcium  564 24 avr 21:07 folder-lua-open.svg
+-rw-r--r--  1 luxcium luxcium  505 24 avr 21:07 folder-lua.svg
+-rw-r--r--  1 luxcium luxcium 1010 24 avr 21:07 folder-macos-open.svg
+-rw-r--r--  1 luxcium luxcium  951 24 avr 21:07 folder-macos.svg
+-rw-r--r--  1 luxcium luxcium  480 24 avr 21:07 folder-mail-open.svg
+-rw-r--r--  1 luxcium luxcium  421 24 avr 21:07 folder-mail.svg
+-rw-r--r--  1 luxcium luxcium  915 24 avr 21:07 folder-mappings-open.svg
+-rw-r--r--  1 luxcium luxcium  856 24 avr 21:07 folder-mappings.svg
+-rw-r--r--  1 luxcium luxcium  591 24 avr 21:07 folder-markdown-open.svg
+-rw-r--r--  1 luxcium luxcium  532 24 avr 21:07 folder-markdown.svg
+-rw-r--r--  1 luxcium luxcium  858 24 avr 21:07 folder-mercurial-open.svg
+-rw-r--r--  1 luxcium luxcium  799 24 avr 21:07 folder-mercurial.svg
+-rw-r--r--  1 luxcium luxcium  562 24 avr 21:07 folder-messages-open.svg
+-rw-r--r--  1 luxcium luxcium  503 24 avr 21:07 folder-messages.svg
+-rw-r--r--  1 luxcium luxcium  607 24 avr 21:07 folder-meta-open.svg
+-rw-r--r--  1 luxcium luxcium  548 24 avr 21:07 folder-meta.svg
+-rw-r--r--  1 luxcium luxcium  659 24 avr 21:07 folder-middleware-open.svg
+-rw-r--r--  1 luxcium luxcium  600 24 avr 21:07 folder-middleware.svg
+-rw-r--r--  1 luxcium luxcium  740 24 avr 21:07 folder-mjml-open.svg
+-rw-r--r--  1 luxcium luxcium  681 24 avr 21:07 folder-mjml.svg
+-rw-r--r--  1 luxcium luxcium  617 24 avr 21:07 folder-mobile-open.svg
+-rw-r--r--  1 luxcium luxcium  558 24 avr 21:07 folder-mobile.svg
+-rw-r--r--  1 luxcium luxcium  597 24 avr 21:07 folder-mock-open.svg
+-rw-r--r--  1 luxcium luxcium  538 24 avr 21:07 folder-mock.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-mojo-open.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-mojo.svg
+-rw-r--r--  1 luxcium luxcium  588 24 avr 21:07 folder-moon-open.svg
+-rw-r--r--  1 luxcium luxcium  529 24 avr 21:07 folder-moon.svg
+-rw-r--r--  1 luxcium luxcium 1013 24 avr 21:07 folder-netlify-open.svg
+-rw-r--r--  1 luxcium luxcium  954 24 avr 21:07 folder-netlify.svg
+-rw-r--r--  1 luxcium luxcium  601 24 avr 21:07 folder-next-open.svg
+-rw-r--r--  1 luxcium luxcium  542 24 avr 21:07 folder-next.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-actions-open.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-actions.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-effects-open.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-effects.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-entities-open.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-entities.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-reducer-open.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-reducer.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-selectors-open.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-selectors.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-state-open.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-state.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-store-open.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-ngrx-store.svg
+-rw-r--r--  1 luxcium luxcium  426 24 avr 21:07 folder-node-open.svg
+-rw-r--r--  1 luxcium luxcium  367 24 avr 21:07 folder-node.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-nuxt-open.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-nuxt.svg
+-rw-r--r--. 1 luxcium luxcium  214 29 déc  2022 folder-open.svg
+-rw-r--r--  1 luxcium luxcium  544 24 avr 21:07 folder-other-open.svg
+-rw-r--r--  1 luxcium luxcium  485 24 avr 21:07 folder-other.svg
+-rw-r--r--  1 luxcium luxcium  621 24 avr 21:07 folder-packages-open.svg
+-rw-r--r--  1 luxcium luxcium  562 24 avr 21:07 folder-packages.svg
+-rw-r--r--  1 luxcium luxcium 2,1K 24 avr 21:07 folder-pdf-open.svg
+-rw-r--r--  1 luxcium luxcium 2,0K 24 avr 21:07 folder-pdf.svg
+-rw-r--r--  1 luxcium luxcium  960 24 avr 21:07 folder-pdm-open.svg
+-rw-r--r--  1 luxcium luxcium  882 24 avr 21:07 folder-pdm.svg
+-rw-r--r--  1 luxcium luxcium  641 24 avr 21:07 folder-phpmailer-open.svg
+-rw-r--r--  1 luxcium luxcium  582 24 avr 21:07 folder-phpmailer.svg
+-rw-r--r--  1 luxcium luxcium  979 24 avr 21:07 folder-php-open.svg
+-rw-r--r--  1 luxcium luxcium  920 24 avr 21:07 folder-php.svg
+-rw-r--r--  1 luxcium luxcium  470 24 avr 21:07 folder-pipe-open.svg
+-rw-r--r--  1 luxcium luxcium  411 24 avr 21:07 folder-pipe.svg
+-rw-r--r--  1 luxcium luxcium 1,8K 24 avr 21:07 folder-plastic-open.svg
+-rw-r--r--  1 luxcium luxcium 1,7K 24 avr 21:07 folder-plastic.svg
+-rw-r--r--  1 luxcium luxcium  659 24 avr 21:07 folder-plugin-open.svg
+-rw-r--r--  1 luxcium luxcium  600 24 avr 21:07 folder-plugin.svg
+-rw-r--r--  1 luxcium luxcium  952 24 avr 21:07 folder-prisma-open.svg
+-rw-r--r--  1 luxcium luxcium  893 24 avr 21:07 folder-prisma.svg
+-rw-r--r--  1 luxcium luxcium  592 24 avr 21:07 folder-private-open.svg
+-rw-r--r--  1 luxcium luxcium  533 24 avr 21:07 folder-private.svg
+-rw-r--r--  1 luxcium luxcium  854 24 avr 21:07 folder-project-open.svg
+-rw-r--r--  1 luxcium luxcium  795 24 avr 21:07 folder-project.svg
+-rw-r--r--  1 luxcium luxcium  438 24 avr 21:07 folder-proto-open.svg
+-rw-r--r--  1 luxcium luxcium  379 24 avr 21:07 folder-proto.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-public-open.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-public.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-python-open.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-python.svg
+-rw-r--r--  1 luxcium luxcium 1,8K 24 avr 21:07 folder-quasar-open.svg
+-rw-r--r--  1 luxcium luxcium 1,7K 24 avr 21:07 folder-quasar.svg
+-rw-r--r--  1 luxcium luxcium  592 24 avr 21:07 folder-queue-open.svg
+-rw-r--r--  1 luxcium luxcium  533 24 avr 21:07 folder-queue.svg
+-rw-r--r--  1 luxcium luxcium 3,0K 24 avr 21:07 folder-react-components-open.svg
+-rw-r--r--  1 luxcium luxcium 3,0K 24 avr 21:07 folder-react-components.svg
+-rw-r--r--  1 luxcium luxcium 2,5K 24 avr 21:07 folder-redux-actions-open.svg
+-rw-r--r--  1 luxcium luxcium 2,5K 24 avr 21:07 folder-redux-actions.svg
+-rw-r--r--  1 luxcium luxcium 2,7K 24 avr 21:07 folder-redux-reducer-open.svg
+-rw-r--r--  1 luxcium luxcium 2,7K 24 avr 21:07 folder-redux-reducer.svg
+-rw-r--r--  1 luxcium luxcium 2,7K 24 avr 21:07 folder-redux-selector-open.svg
+-rw-r--r--  1 luxcium luxcium 2,7K 24 avr 21:07 folder-redux-selector.svg
+-rw-r--r--  1 luxcium luxcium 2,7K 24 avr 21:07 folder-redux-store-open.svg
+-rw-r--r--  1 luxcium luxcium 2,7K 24 avr 21:07 folder-redux-store.svg
+-rw-r--r--  1 luxcium luxcium  452 24 avr 21:07 folder-resolver-open.svg
+-rw-r--r--  1 luxcium luxcium  393 24 avr 21:07 folder-resolver.svg
+-rw-r--r--  1 luxcium luxcium  607 24 avr 21:07 folder-resource-open.svg
+-rw-r--r--  1 luxcium luxcium  548 24 avr 21:07 folder-resource.svg
+-rw-r--r--  1 luxcium luxcium  600 24 avr 21:07 folder-review-open.svg
+-rw-r--r--  1 luxcium luxcium  541 24 avr 21:07 folder-review.svg
+-rw-r--r--  1 luxcium luxcium  842 24 avr 21:07 folder-robot-open.svg
+-rw-r--r--  1 luxcium luxcium  783 24 avr 21:07 folder-robot.svg
+-rw-r--r--. 1 luxcium luxcium  232 29 déc  2022 folder-root-open.svg
+-rw-r--r--. 1 luxcium luxcium  292 29 déc  2022 folder-root.svg
+-rw-r--r--  1 luxcium luxcium  625 24 avr 21:07 folder-routes-open.svg
+-rw-r--r--  1 luxcium luxcium  566 24 avr 21:07 folder-routes.svg
+-rw-r--r--  1 luxcium luxcium  603 24 avr 21:07 folder-rules-open.svg
+-rw-r--r--  1 luxcium luxcium  544 24 avr 21:07 folder-rules.svg
+-rw-r--r--  1 luxcium luxcium 2,0K 24 avr 21:07 folder-sass-open.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 folder-sass.svg
+-rw-r--r--  1 luxcium luxcium  748 24 avr 21:07 folder-scala-open.svg
+-rw-r--r--  1 luxcium luxcium  689 24 avr 21:07 folder-scala.svg
+-rw-r--r--  1 luxcium luxcium  520 24 avr 21:07 folder-scripts-open.svg
+-rw-r--r--  1 luxcium luxcium  461 24 avr 21:07 folder-scripts.svg
+-rw-r--r--  1 luxcium luxcium  569 24 avr 21:07 folder-secure-open.svg
+-rw-r--r--  1 luxcium luxcium  510 24 avr 21:07 folder-secure.svg
+-rw-r--r--  1 luxcium luxcium 3,9K 24 avr 21:07 folder-seeders-open.svg
+-rw-r--r--  1 luxcium luxcium 2,7K 24 avr 21:07 folder-seeders.svg
+-rw-r--r--  1 luxcium luxcium  807 24 avr 21:07 folder-serverless-open.svg
+-rw-r--r--  1 luxcium luxcium  748 24 avr 21:07 folder-serverless.svg
+-rw-r--r--  1 luxcium luxcium  655 24 avr 21:07 folder-server-open.svg
+-rw-r--r--  1 luxcium luxcium  596 24 avr 21:07 folder-server.svg
+-rw-r--r--  1 luxcium luxcium  817 24 avr 21:07 folder-shader-open.svg
+-rw-r--r--  1 luxcium luxcium  758 24 avr 21:07 folder-shader.svg
+-rw-r--r--  1 luxcium luxcium  556 24 avr 21:07 folder-shared-open.svg
+-rw-r--r--  1 luxcium luxcium  497 24 avr 21:07 folder-shared.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-src-open.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 folder-src.svg
+-rw-r--r--  1 luxcium luxcium  822 24 avr 21:07 folder-stack-open.svg
+-rw-r--r--  1 luxcium luxcium  763 24 avr 21:07 folder-stack.svg
+-rw-r--r--  1 luxcium luxcium  620 24 avr 21:07 folder-stencil-open.svg
+-rw-r--r--  1 luxcium luxcium  561 24 avr 21:07 folder-stencil.svg
+-rw-r--r--  1 luxcium luxcium 1010 24 avr 21:07 folder-storybook-open.svg
+-rw-r--r--  1 luxcium luxcium  951 24 avr 21:07 folder-storybook.svg
+-rw-r--r--  1 luxcium luxcium  882 24 avr 21:07 folder-stylus-open.svg
+-rw-r--r--  1 luxcium luxcium  823 24 avr 21:07 folder-stylus.svg
+-rw-r--r--  1 luxcium luxcium  702 24 avr 21:07 folder-sublime-open.svg
+-rw-r--r--  1 luxcium luxcium  643 24 avr 21:07 folder-sublime.svg
+-rw-r--r--  1 luxcium luxcium  475 24 avr 21:07 folder-supabase-open.svg
+-rw-r--r--  1 luxcium luxcium  416 24 avr 21:07 folder-supabase.svg
+-rw-r--r--  1 luxcium luxcium 2,1K 24 avr 21:07 folder-svelte-open.svg
+-rw-r--r--  1 luxcium luxcium 2,1K 24 avr 21:07 folder-svelte.svg
+-rw-r--r--. 1 luxcium luxcium  180 29 déc  2022 folder.svg
+-rw-r--r--  1 luxcium luxcium  816 24 avr 21:07 folder-svg-open.svg
+-rw-r--r--  1 luxcium luxcium  757 24 avr 21:07 folder-svg.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-syntax-open.svg
+-rw-r--r--  1 luxcium luxcium  998 24 avr 21:07 folder-syntax.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-target-open.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-target.svg
+-rw-r--r--  1 luxcium luxcium  426 24 avr 21:07 folder-taskfile-open.svg
+-rw-r--r--  1 luxcium luxcium  367 24 avr 21:07 folder-taskfile.svg
+-rw-r--r--  1 luxcium luxcium  622 24 avr 21:07 folder-tasks-open.svg
+-rw-r--r--  1 luxcium luxcium  563 24 avr 21:07 folder-tasks.svg
+-rw-r--r--  1 luxcium luxcium  449 24 avr 21:07 folder-television-open.svg
+-rw-r--r--  1 luxcium luxcium  390 24 avr 21:07 folder-television.svg
+-rw-r--r--  1 luxcium luxcium  681 24 avr 21:07 folder-template-open.svg
+-rw-r--r--  1 luxcium luxcium  622 24 avr 21:07 folder-template.svg
+-rw-r--r--  1 luxcium luxcium  595 24 avr 21:07 folder-temp-open.svg
+-rw-r--r--  1 luxcium luxcium  536 24 avr 21:07 folder-temp.svg
+-rw-r--r--  1 luxcium luxcium  625 24 avr 21:07 folder-terraform-open.svg
+-rw-r--r--  1 luxcium luxcium  566 24 avr 21:07 folder-terraform.svg
+-rw-r--r--  1 luxcium luxcium  479 24 avr 21:07 folder-test-open.svg
+-rw-r--r--  1 luxcium luxcium  420 24 avr 21:07 folder-test.svg
+-rw-r--r--  1 luxcium luxcium  690 24 avr 21:07 folder-theme-open.svg
+-rw-r--r--  1 luxcium luxcium  631 24 avr 21:07 folder-theme.svg
+-rw-r--r--  1 luxcium luxcium  784 24 avr 21:07 folder-tools-open.svg
+-rw-r--r--  1 luxcium luxcium  725 24 avr 21:07 folder-tools.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-typescript-open.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-typescript.svg
+-rw-r--r--  1 luxcium luxcium  740 24 avr 21:07 folder-unity-open.svg
+-rw-r--r--  1 luxcium luxcium  681 24 avr 21:07 folder-unity.svg
+-rw-r--r--  1 luxcium luxcium  594 24 avr 21:07 folder-update-open.svg
+-rw-r--r--  1 luxcium luxcium  535 24 avr 21:07 folder-update.svg
+-rw-r--r--  1 luxcium luxcium  428 24 avr 21:07 folder-upload-open.svg
+-rw-r--r--  1 luxcium luxcium  369 24 avr 21:07 folder-upload.svg
+-rw-r--r--  1 luxcium luxcium  598 24 avr 21:07 folder-utils-open.svg
+-rw-r--r--  1 luxcium luxcium  539 24 avr 21:07 folder-utils.svg
+-rw-r--r--  1 luxcium luxcium  394 24 avr 21:07 folder-vercel-open.svg
+-rw-r--r--  1 luxcium luxcium  335 24 avr 21:07 folder-vercel.svg
+-rw-r--r--  1 luxcium luxcium  618 24 avr 21:07 folder-verdaccio-open.svg
+-rw-r--r--  1 luxcium luxcium  559 24 avr 21:07 folder-verdaccio.svg
+-rw-r--r--  1 luxcium luxcium  500 24 avr 21:07 folder-video-open.svg
+-rw-r--r--  1 luxcium luxcium  441 24 avr 21:07 folder-video.svg
+-rw-r--r--  1 luxcium luxcium  543 24 avr 21:07 folder-views-open.svg
+-rw-r--r--  1 luxcium luxcium  484 24 avr 21:07 folder-views.svg
+-rw-r--r--  1 luxcium luxcium  524 24 avr 21:07 folder-vm-open.svg
+-rw-r--r--  1 luxcium luxcium  465 24 avr 21:07 folder-vm.svg
+-rw-r--r--  1 luxcium luxcium  561 24 avr 21:07 folder-vscode-open.svg
+-rw-r--r--  1 luxcium luxcium  502 24 avr 21:07 folder-vscode.svg
+-rw-r--r--  1 luxcium luxcium  611 24 avr 21:07 folder-vue-directives-open.svg
+-rw-r--r--  1 luxcium luxcium  552 24 avr 21:07 folder-vue-directives.svg
+-rw-r--r--  1 luxcium luxcium  611 24 avr 21:07 folder-vue-open.svg
+-rw-r--r--  1 luxcium luxcium  842 24 avr 21:07 folder-vuepress-open.svg
+-rw-r--r--  1 luxcium luxcium  764 24 avr 21:07 folder-vuepress.svg
+-rw-r--r--  1 luxcium luxcium  552 24 avr 21:07 folder-vue.svg
+-rw-r--r--  1 luxcium luxcium  585 24 avr 21:07 folder-vuex-store-open.svg
+-rw-r--r--  1 luxcium luxcium  526 24 avr 21:07 folder-vuex-store.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-wakatime-open.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 folder-wakatime.svg
+-rw-r--r--  1 luxcium luxcium  894 24 avr 21:07 folder-webpack-open.svg
+-rw-r--r--  1 luxcium luxcium  835 24 avr 21:07 folder-webpack.svg
+-rw-r--r--  1 luxcium luxcium  652 24 avr 21:07 folder-windows-open.svg
+-rw-r--r--  1 luxcium luxcium  601 24 avr 21:07 folder-windows.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-wordpress-open.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 folder-wordpress.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 24 avr 21:07 folder-yarn-open.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 24 avr 21:07 folder-yarn.svg
+-rw-r--r--  1 luxcium luxcium  221 24 avr 21:07 font.svg
+-rw-r--r--  1 luxcium luxcium  732 17 fév 17:01 forth.svg
+-rw-r--r--  1 luxcium luxcium  242 24 avr 21:07 fortran.svg
+-rw-r--r--  1 luxcium luxcium 8,0K 17 fév 17:01 foxpro.svg
+-rw-rw-r--. 1 luxcium luxcium  344 27 oct  2022 fsharp.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 17 fév 17:01 fusebox.svg
+-rw-r--r--  1 luxcium luxcium  404 17 fév 17:01 gamemaker.svg
+-rw-r--r--  1 luxcium luxcium  840 17 fév 17:01 gatsby.svg
+-rw-r--r--  1 luxcium luxcium  917 17 fév 17:01 gcp.svg
+-rw-r--r--  1 luxcium luxcium  341 24 avr 21:07 gemfile.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 gemini.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 gitlab.svg
+-rw-r--r--  1 luxcium luxcium  723 24 avr 21:07 gitpod.svg
+-rw-r--r--  1 luxcium luxcium  912 24 avr 21:07 git.svg
+-rw-r--r--  1 luxcium luxcium 2,8K 17 fév 17:01 gleam.svg
+-rw-r--r--  1 luxcium luxcium  758 24 avr 21:07 godot-assets.svg
+-rw-r--r--  1 luxcium luxcium  758 24 avr 21:07 godot.svg
+-rw-rw-r--. 1 luxcium luxcium 2,1K 27 oct  2022 go_gopher.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 go-mod.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 go.svg
+-rw-r--r--  1 luxcium luxcium  481 24 avr 21:07 gradle.svg
+-rw-r--r--  1 luxcium luxcium  334 24 avr 21:07 grain.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 graphcool.svg
+-rw-r--r--  1 luxcium luxcium 1,8K 24 avr 21:07 graphql.svg
+-rw-r--r--  1 luxcium luxcium  299 24 avr 21:07 gridsome.svg
+-rw-r--r--  1 luxcium luxcium 1,7K 24 avr 21:07 groovy.svg
+-rw-r--r--  1 luxcium luxcium  20K 17 fév 17:01 grunt.svg
+-rw-r--r--  1 luxcium luxcium  216 24 avr 21:07 gulp.svg
+-rw-r--r--  1 luxcium luxcium  419 24 avr 21:07 hack.svg
+-rw-r--r--  1 luxcium luxcium 2,1K 17 fév 17:01 haml.svg
+-rw-r--r--  1 luxcium luxcium  685 24 avr 21:07 handlebars.svg
+-rw-r--r--  1 luxcium luxcium  415 17 fév 17:01 hardhat.svg
+-rw-rw-r--. 1 luxcium luxcium  436 27 oct  2022 haskell.svg
+-rw-rw-r--. 1 luxcium luxcium 1,5K 27 oct  2022 haxe.svg
+-rw-r--r--  1 luxcium luxcium  418 24 avr 21:07 hcl_light.svg
+-rw-r--r--  1 luxcium luxcium  418 24 avr 21:07 hcl.svg
+-rw-r--r--  1 luxcium luxcium 3,9K 17 fév 17:01 helm.svg
+-rw-r--r--  1 luxcium luxcium  342 24 avr 21:07 heroku.svg
+-rw-r--r--  1 luxcium luxcium  359 24 avr 21:07 hex.svg
+-rw-r--r--  1 luxcium luxcium 1,7K 17 fév 17:01 hjson.svg
+-rw-rw-r--. 1 luxcium luxcium 3,0K 27 oct  2022 horusec.svg
+-rw-r--r--  1 luxcium luxcium  348 24 avr 21:07 hpp.svg
+-rw-r--r--  1 luxcium luxcium  206 24 avr 21:07 h.svg
+-rw-r--r--  1 luxcium luxcium  250 24 avr 21:07 html.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 http.svg
+-rw-r--r--  1 luxcium luxcium  683 24 avr 21:07 huff_light.svg
+-rw-r--r--  1 luxcium luxcium  683 24 avr 21:07 huff.svg
+-rw-rw-r--. 1 luxcium luxcium  942 27 oct  2022 husky.svg
+-rw-r--r--  1 luxcium luxcium  633 24 avr 21:07 i18n.svg
+-rw-r--r--  1 luxcium luxcium 6,8K 17 fév 17:01 idris.svg
+-rw-r--r--  1 luxcium luxcium  939 17 fév 17:01 ifanr-cloud.svg
+-rw-r--r--  1 luxcium luxcium  292 24 avr 21:07 image.svg
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 imba.svg
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 ionic.svg
+-rw-r--r--  1 luxcium luxcium  835 24 avr 21:07 istanbul.svg
+-rw-r--r--  1 luxcium luxcium  340 24 avr 21:07 jar.svg
+-rw-r--r--  1 luxcium luxcium  293 24 avr 21:07 javaclass.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 javascript-map.svg
+-rw-r--r--  1 luxcium luxcium  875 24 avr 21:07 javascript.svg
+-rw-r--r--  1 luxcium luxcium  293 24 avr 21:07 java.svg
+-rw-r--r--  1 luxcium luxcium  16K 17 fév 17:01 jenkins.svg
+-rw-r--r--  1 luxcium luxcium  727 24 avr 21:07 jest.svg
+-rw-r--r--  1 luxcium luxcium  397 24 avr 21:07 jinja_light.svg
+-rw-r--r--  1 luxcium luxcium  397 24 avr 21:07 jinja.svg
+-rw-r--r--  1 luxcium luxcium  468 24 avr 21:07 jsconfig.svg
+-rw-r--r--  1 luxcium luxcium  589 24 avr 21:07 json.svg
+-rw-rw-r--. 1 luxcium luxcium  282 27 oct  2022 julia.svg
+-rw-r--r--  1 luxcium luxcium  505 24 avr 21:07 jupyter.svg
+-rw-rw-r--. 1 luxcium luxcium  313 27 oct  2022 karma.svg
+-rw-r--r--  1 luxcium luxcium  196 24 avr 21:07 key.svg
+-rw-r--r--  1 luxcium luxcium  406 17 fév 17:01 kivy.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 17 fév 17:01 kl.svg
+-rw-r--r--  1 luxcium luxcium  574 24 avr 21:07 knip.svg
+-rw-rw-r--. 1 luxcium luxcium  801 27 oct  2022 kotlin.svg
+-rw-r--r--  1 luxcium luxcium 5,7K 17 fév 17:01 kubernetes.svg
+-rw-r--r--  1 luxcium luxcium  727 17 fév 17:01 kusto.svg
+-rw-r--r--  1 luxcium luxcium 1,9K 24 avr 21:07 laravel.svg
+-rw-rw-r--. 1 luxcium luxcium 1,4K 27 oct  2022 lerna.svg
+-rw-r--r--  1 luxcium luxcium  351 24 avr 21:07 less.svg
+-rw-r--r--  1 luxcium luxcium  342 24 avr 21:07 lib.svg
+-rw-r--r--  1 luxcium luxcium  371 17 fév 17:01 lighthouse.svg
+-rw-r--r--  1 luxcium luxcium  216 24 avr 21:07 lilypond.svg
+-rw-rw-r--. 1 luxcium luxcium  240 27 oct  2022 liquid.svg
+-rw-r--r--  1 luxcium luxcium  368 24 avr 21:07 lisp.svg
+-rw-r--r--  1 luxcium luxcium  873 24 avr 21:07 livescript.svg
+-rw-r--r--  1 luxcium luxcium  264 24 avr 21:07 lock.svg
+-rw-r--r--  1 luxcium luxcium  344 24 avr 21:07 log.svg
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 lolcode.svg
+-rw-r--r--  1 luxcium luxcium  448 24 avr 21:07 lottie.svg
+-rw-r--r--  1 luxcium luxcium  787 24 avr 21:07 lua.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 makefile.svg
+-rw-r--r--  1 luxcium luxcium  296 24 avr 21:07 markdown.svg
+-rw-r--r--  1 luxcium luxcium 1,8K 24 avr 21:07 markojs.svg
+-rw-rw-r--. 1 luxcium luxcium 4,0K 27 oct  2022 mathematica.svg
+-rw-rw-r--. 1 luxcium luxcium  964 27 oct  2022 matlab.svg
+-rw-rw-r--. 1 luxcium luxcium  819 27 oct  2022 maven.svg
+-rw-r--r--  1 luxcium luxcium  296 24 avr 21:07 mdsvex.svg
+-rw-r--r--  1 luxcium luxcium  296 24 avr 21:07 mdx.svg
+-rw-r--r--  1 luxcium luxcium  768 17 fév 17:01 mercurial.svg
+-rw-r--r--  1 luxcium luxcium  271 17 fév 17:01 merlin.svg
+-rw-r--r--  1 luxcium luxcium  593 17 fév 17:01 mermaid.svg
+-rw-rw-r--. 1 luxcium luxcium  527 27 oct  2022 meson.svg
+-rw-r--r--  1 luxcium luxcium  170 24 avr 21:07 minecraft.svg
+-rw-rw-r--. 1 luxcium luxcium 1,3K 27 oct  2022 mint.svg
+-rw-r--r--  1 luxcium luxcium  879 17 fév 17:01 mjml.svg
+-rw-r--r--  1 luxcium luxcium  827 24 avr 21:07 mocha.svg
+-rw-r--r--  1 luxcium luxcium  247 24 avr 21:07 modernizr.svg
+-rw-r--r--  1 luxcium luxcium  538 24 avr 21:07 mojo.svg
+-rw-rw-r--. 1 luxcium luxcium  638 27 oct  2022 moonscript.svg
+-rw-r--r--  1 luxcium luxcium  376 24 avr 21:07 moon.svg
+-rw-r--r--  1 luxcium luxcium  328 24 avr 21:07 mxml.svg
+-rw-r--r--  1 luxcium luxcium  455 17 fév 17:01 nano-staged_light.svg
+-rw-r--r--  1 luxcium luxcium  439 17 fév 17:01 nano-staged.svg
+-rw-r--r--  1 luxcium luxcium 1007 17 fév 17:01 ndst.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-controller.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-decorator.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-filter.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-gateway.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-guard.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-middleware.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-module.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-pipe.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-resolver.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest-service.svg
+-rw-rw-r--. 1 luxcium luxcium 5,0K 27 oct  2022 nest.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 17 fév 17:01 netlify_light.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 17 fév 17:01 netlify.svg
+-rw-r--r--  1 luxcium luxcium  311 24 avr 21:07 next_light.svg
+-rw-r--r--  1 luxcium luxcium  311 24 avr 21:07 next.svg
+-rw-r--r--  1 luxcium luxcium  324 24 avr 21:07 nginx.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 ngrx-actions.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 ngrx-effects.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 ngrx-entity.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 ngrx-reducer.svg
+-rw-rw-r--. 1 luxcium luxcium 1,7K 27 oct  2022 ngrx-selectors.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 ngrx-state.svg
+-rw-r--r--  1 luxcium luxcium  283 24 avr 21:07 nim.svg
+-rw-rw-r--. 1 luxcium luxcium 4,2K 27 oct  2022 nix.svg
+-rw-r--r--  1 luxcium luxcium 1016 24 avr 21:07 nodejs_alt.svg
+-rw-r--r--  1 luxcium luxcium  441 24 avr 21:07 nodejs.svg
+-rw-r--r--  1 luxcium luxcium  943 24 avr 21:07 nodemon.svg
+-rw-r--r--  1 luxcium luxcium  144 24 avr 21:07 npm.svg
+-rw-r--r--  1 luxcium luxcium  304 24 avr 21:07 nuget.svg
+-rw-r--r--  1 luxcium luxcium  259 24 avr 21:07 nunjucks.svg
+-rw-r--r--  1 luxcium luxcium  440 24 avr 21:07 nuxt.svg
+-rw-r--r--  1 luxcium luxcium 1,4K 24 avr 21:07 nx.svg
+-rw-r--r--  1 luxcium luxcium  448 24 avr 21:07 objective-cpp.svg
+-rw-r--r--  1 luxcium luxcium  283 24 avr 21:07 objective-c.svg
+-rw-rw-r--. 1 luxcium luxcium 2,4K 27 oct  2022 ocaml.svg
+-rw-r--r--  1 luxcium luxcium  833 17 fév 17:01 odin.svg
+drwxr-xr-x  2 luxcium luxcium  36K 17 fév 17:01 old-icons
+-rw-rw-r--. 1 luxcium luxcium 2,3K 27 oct  2022 opam.svg
+-rw-r--r--  1 luxcium luxcium  933 24 avr 21:07 opa.svg
+-rw-r--r--  1 luxcium luxcium 2,9K 17 fév 17:01 openapi_light.svg
+-rw-r--r--  1 luxcium luxcium 3,4K 17 fév 17:01 openapi.svg
+-rw-r--r--  1 luxcium luxcium  535 17 fév 17:01 otne.svg
+-rw-r--r--  1 luxcium luxcium  874 17 fév 17:01 panda.svg
+-rw-r--r--  1 luxcium luxcium  558 17 fév 17:01 parcel.svg
+-rw-r--r--  1 luxcium luxcium  526 17 fév 17:01 pascal.svg
+-rw-r--r--  1 luxcium luxcium  332 24 avr 21:07 pawn.svg
+-rw-r--r--  1 luxcium luxcium  208 17 fév 17:01 payload_light.svg
+-rw-r--r--  1 luxcium luxcium  208 17 fév 17:01 payload.svg
+-rw-r--r--  1 luxcium luxcium  986 17 fév 17:01 pdf.svg
+-rw-r--r--  1 luxcium luxcium  715 17 fév 17:01 pdm.svg
+-rw-r--r--  1 luxcium luxcium 1,8K 17 fév 17:01 percy.svg
+-rw-rw-r--. 1 luxcium luxcium  553 27 oct  2022 perl.svg
+-rw-rw-r--. 1 luxcium luxcium  679 27 oct  2022 php-cs-fixer.svg
+-rw-r--r--  1 luxcium luxcium  388 24 avr 21:07 php_elephant_pink.svg
+-rw-r--r--  1 luxcium luxcium  388 24 avr 21:07 php_elephant.svg
+-rw-rw-r--. 1 luxcium luxcium  921 27 oct  2022 php.svg
+-rw-rw-r--. 1 luxcium luxcium  533 27 oct  2022 phpunit.svg
+-rw-r--r--  1 luxcium luxcium  964 17 fév 17:01 pinejs.svg
+-rw-r--r--  1 luxcium luxcium  488 24 avr 21:07 pipeline.svg
+-rw-r--r--  1 luxcium luxcium 1,7K 17 fév 17:01 pkl.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 17 fév 17:01 plastic.svg
+-rw-r--r--  1 luxcium luxcium 1018 17 fév 17:01 playwright.svg
+-rw-r--r--  1 luxcium luxcium 1014 17 fév 17:01 plop.svg
+-rw-r--r--  1 luxcium luxcium  641 24 avr 21:07 pnpm_light.svg
+-rw-r--r--  1 luxcium luxcium  641 24 avr 21:07 pnpm.svg
+-rw-r--r--  1 luxcium luxcium  367 24 avr 21:07 poetry.svg
+-rw-r--r--  1 luxcium luxcium  478 24 avr 21:07 postcss.svg
+-rw-r--r--  1 luxcium luxcium 3,1K 17 fév 17:01 posthtml.svg
+-rw-rw-r--. 1 luxcium luxcium  270 27 oct  2022 powerpoint.svg
+-rw-r--r--  1 luxcium luxcium  782 24 avr 21:07 powershell.svg
+-rw-rw-r--. 1 luxcium luxcium 1,7K 27 oct  2022 prettier.svg
+-rw-r--r--  1 luxcium luxcium  594 24 avr 21:07 prisma.svg
+-rw-r--r--  1 luxcium luxcium  158 24 avr 21:07 processing.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 prolog.svg
+-rw-r--r--  1 luxcium luxcium  429 24 avr 21:07 proto.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 protractor.svg
+-rw-r--r--  1 luxcium luxcium 5,3K 17 fév 17:01 pug.svg
+-rw-r--r--  1 luxcium luxcium  866 17 fév 17:01 puppeteer.svg
+-rw-r--r--  1 luxcium luxcium  565 24 avr 21:07 puppet.svg
+-rw-r--r--  1 luxcium luxcium  589 24 avr 21:07 purescript.svg
+-rw-r--r--  1 luxcium luxcium  796 24 avr 21:07 python-misc.svg
+-rw-r--r--  1 luxcium luxcium  794 17 fév 17:01 python.svg
+-rw-rw-r--. 1 luxcium luxcium  900 27 oct  2022 qsharp.svg
+-rw-rw-r--. 1 luxcium luxcium 1,7K 27 oct  2022 quasar.svg
+-rw-r--r--  1 luxcium luxcium  257 24 avr 21:07 quokka.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 17 fév 17:01 qwik.svg
+-rw-r--r--  1 luxcium luxcium  783 17 fév 17:01 racket.svg
+-rw-r--r--  1 luxcium luxcium  536 24 avr 21:07 raml.svg
+-rw-rw-r--. 1 luxcium luxcium  793 27 oct  2022 razor.svg
+-rw-r--r--  1 luxcium luxcium  383 24 avr 21:07 rc.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 24 avr 21:07 react.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 24 avr 21:07 react_ts.svg
+-rw-r--r--  1 luxcium luxcium  273 24 avr 21:07 readme.svg
+-rw-r--r--  1 luxcium luxcium  394 24 avr 21:07 reason.svg
+-rw-r--r--  1 luxcium luxcium  726 17 fév 17:01 red.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 redux-action.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 redux-reducer.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 redux-selector.svg
+-rw-rw-r--. 1 luxcium luxcium 1,6K 27 oct  2022 redux-store.svg
+-rw-r--r--  1 luxcium luxcium  355 24 avr 21:07 remix_light.svg
+-rw-r--r--  1 luxcium luxcium  355 24 avr 21:07 remix.svg
+-rw-rw-r--. 1 luxcium luxcium  364 27 oct  2022 renovate.svg
+-rw-r--r--  1 luxcium luxcium  395 24 avr 21:07 replit.svg
+-rw-r--r--  1 luxcium luxcium  504 24 avr 21:07 rescript-interface.svg
+-rw-r--r--  1 luxcium luxcium  350 24 avr 21:07 rescript.svg
+-rw-r--r--  1 luxcium luxcium 9,2K 17 fév 17:01 restql.svg
+-rw-r--r--  1 luxcium luxcium  375 24 avr 21:07 riot.svg
+-rw-r--r--  1 luxcium luxcium  187 24 avr 21:07 roadmap.svg
+-rw-r--r--  1 luxcium luxcium  396 17 fév 17:01 roblox.svg
+-rw-r--r--  1 luxcium luxcium  457 24 avr 21:07 robots.svg
+-rw-r--r--  1 luxcium luxcium  575 24 avr 21:07 robot.svg
+-rw-r--r--  1 luxcium luxcium  738 17 fév 17:01 rollup.svg
+-rw-r--r--  1 luxcium luxcium 1,2K 24 avr 21:07 rome.svg
+-rw-r--r--  1 luxcium luxcium  203 24 avr 21:07 routing.svg
+-rw-r--r--  1 luxcium luxcium 2,5K 17 fév 17:01 rspec.svg
+-rw-rw-r--. 1 luxcium luxcium  739 27 oct  2022 r.svg
+-rw-r--r--  1 luxcium luxcium  642 24 avr 21:07 rubocop_light.svg
+-rw-r--r--  1 luxcium luxcium  642 24 avr 21:07 rubocop.svg
+-rw-r--r--  1 luxcium luxcium  521 17 fév 17:01 ruby.svg
+-rw-r--r--  1 luxcium luxcium 2,5K 24 avr 21:07 rust.svg
+-rw-rw-r--. 1 luxcium luxcium  571 27 oct  2022 salesforce.svg
+-rw-r--r--  1 luxcium luxcium  305 24 avr 21:07 san.svg
+-rw-r--r--  1 luxcium luxcium 1,8K 24 avr 21:07 sass.svg
+-rw-rw-r--. 1 luxcium luxcium  707 27 oct  2022 sas.svg
+-rw-rw-r--. 1 luxcium luxcium  581 27 oct  2022 sbt.svg
+-rw-r--r--  1 luxcium luxcium  705 24 avr 21:07 scala.svg
+-rw-rw-r--. 1 luxcium luxcium  283 27 oct  2022 scheme.svg
+-rw-r--r--  1 luxcium luxcium  584 24 avr 21:07 search.svg
+-rw-rw-r--. 1 luxcium luxcium 2,3K 27 oct  2022 semantic-release_light.svg
+-rw-rw-r--. 1 luxcium luxcium 2,3K 27 oct  2022 semantic-release.svg
+-rw-r--r--  1 luxcium luxcium 2,3K 17 fév 17:01 semgrep.svg
+-rw-rw-r--. 1 luxcium luxcium 1,3K 27 oct  2022 sentry.svg
+-rw-r--r--  1 luxcium luxcium 3,0K 17 fév 17:01 sequelize.svg
+-rw-r--r--  1 luxcium luxcium  614 24 avr 21:07 serverless.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 24 avr 21:07 settings.svg
+-rw-rw-r--. 1 luxcium luxcium  334 27 oct  2022 shaderlab.svg
+-rw-r--r--  1 luxcium luxcium  316 17 fév 17:01 shader.svg
+-rw-r--r--  1 luxcium luxcium  750 17 fév 17:01 silverstripe.svg
+-rw-r--r--  1 luxcium luxcium  313 24 avr 21:07 siyuan.svg
+-rw-r--r--  1 luxcium luxcium  374 17 fév 17:01 sketch.svg
+-rw-r--r--  1 luxcium luxcium  211 24 avr 21:07 slim.svg
+-rw-rw-r--. 1 luxcium luxcium 2,2K 27 oct  2022 slug.svg
+-rw-r--r--  1 luxcium luxcium  534 24 avr 21:07 smarty.svg
+-rw-rw-r--. 1 luxcium luxcium  293 27 oct  2022 sml.svg
+-rw-rw-r--. 1 luxcium luxcium  340 27 oct  2022 snowpack_light.svg
+-rw-rw-r--. 1 luxcium luxcium  340 27 oct  2022 snowpack.svg
+-rw-r--r--  1 luxcium luxcium 3,2K 24 avr 21:07 snyk.svg
+-rw-rw-r--. 1 luxcium luxcium  210 27 oct  2022 solidity.svg
+-rw-r--r--  1 luxcium luxcium 2,0K 17 fév 17:01 sonarcloud.svg
+-rw-r--r--  1 luxcium luxcium  511 17 fév 17:01 spwn.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 17 fév 17:01 stan.svg
+-rw-r--r--  1 luxcium luxcium  823 17 fév 17:01 steadybit.svg
+-rw-r--r--  1 luxcium luxcium  295 24 avr 21:07 stencil.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 stitches_light.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 stitches.svg
+-rw-r--r--  1 luxcium luxcium 1022 24 avr 21:07 storybook.svg
+-rw-rw-r--. 1 luxcium luxcium 2,4K 27 oct  2022 stryker.svg
+-rw-r--r--  1 luxcium luxcium 2,4K 17 fév 17:01 stylable.svg
+-rw-rw-r--. 1 luxcium luxcium 1,3K 27 oct  2022 stylelint_light.svg
+-rw-rw-r--. 1 luxcium luxcium 1,3K 27 oct  2022 stylelint.svg
+-rw-rw-r--. 1 luxcium luxcium  594 27 oct  2022 stylus.svg
+-rw-r--r--  1 luxcium luxcium  514 24 avr 21:07 sublime.svg
+-rw-r--r--  1 luxcium luxcium  265 24 avr 21:07 supabase.svg
+-rw-rw-r--. 1 luxcium luxcium 1,8K 27 oct  2022 svelte.svg
+-rw-rw-r--. 1 luxcium luxcium 2,0K 27 oct  2022 svgo.svg
+-rw-r--r--  1 luxcium luxcium 1,5K 24 avr 21:07 svgr.svg
+-rw-r--r--  1 luxcium luxcium 1,7K 24 avr 21:07 svg.svg
+-rw-r--r--  1 luxcium luxcium 9,0K 17 fév 17:01 swagger.svg
+-rw-r--r--  1 luxcium luxcium  339 24 avr 21:07 swc.svg
+-rw-rw-r--. 1 luxcium luxcium  513 27 oct  2022 swift.svg
+-rw-r--r--  1 luxcium luxcium 2,0K 17 fév 17:01 syncpack.svg
+-rw-rw-r--. 1 luxcium luxcium  277 27 oct  2022 table.svg
+-rw-r--r--  1 luxcium luxcium  455 24 avr 21:07 tailwindcss.svg
+-rw-r--r--  1 luxcium luxcium  298 24 avr 21:07 taskfile.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 17 fév 17:01 tauri.svg
+-rw-rw-r--. 1 luxcium luxcium  490 27 oct  2022 tcl.svg
+-rw-r--r--  1 luxcium luxcium  159 24 avr 21:07 teal.svg
+-rw-r--r--  1 luxcium luxcium  426 24 avr 21:07 template.svg
+-rw-r--r--  1 luxcium luxcium  331 24 avr 21:07 templ.svg
+-rw-r--r--  1 luxcium luxcium  378 24 avr 21:07 terraform.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 test-js.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 test-jsx.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 test-ts.svg
+-rw-r--r--  1 luxcium luxcium  618 24 avr 21:07 tex.svg
+-rw-r--r--  1 luxcium luxcium  302 24 avr 21:07 textlint.svg
+-rw-r--r--  1 luxcium luxcium  364 24 avr 21:07 tilt.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 tldraw_light.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 tldraw.svg
+-rw-r--r--  1 luxcium luxcium  310 24 avr 21:07 tobimake.svg
+-rw-r--r--  1 luxcium luxcium  165 24 avr 21:07 tobi.svg
+-rw-r--r--  1 luxcium luxcium  242 24 avr 21:07 todo.svg
+-rw-rw-r--. 1 luxcium luxcium  23K 27 oct  2022 travis.svg
+-rw-r--r--  1 luxcium luxcium  399 24 avr 21:07 tree.svg
+-rw-r--r--  1 luxcium luxcium  430 24 avr 21:07 tsconfig.svg
+-rw-r--r--  1 luxcium luxcium  672 24 avr 21:07 tune.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 17 fév 17:01 turborepo_light.svg
+-rw-r--r--  1 luxcium luxcium 1,6K 17 fév 17:01 turborepo.svg
+-rw-rw-r--. 1 luxcium luxcium 2,9K 27 oct  2022 twig.svg
+-rw-r--r--  1 luxcium luxcium  400 17 fév 17:01 twine.svg
+-rw-r--r--  1 luxcium luxcium  790 24 avr 21:07 typescript-def.svg
+-rw-r--r--  1 luxcium luxcium  749 24 avr 21:07 typescript.svg
+-rw-r--r--  1 luxcium luxcium  406 24 avr 21:07 typst.svg
+-rw-rw-r--. 1 luxcium luxcium  931 27 oct  2022 uml_light.svg
+-rw-rw-r--. 1 luxcium luxcium  915 27 oct  2022 uml.svg
+-rw-r--r--  1 luxcium luxcium  250 24 avr 21:07 unocss.svg
+-rw-r--r--  1 luxcium luxcium  568 24 avr 21:07 url.svg
+-rw-r--r--  1 luxcium luxcium  685 17 fév 17:01 vagrant.svg
+-rw-rw-r--. 1 luxcium luxcium 2,6K 27 oct  2022 vala.svg
+-rw-r--r--  1 luxcium luxcium 3,2K 17 fév 17:01 vedic.svg
+-rw-rw-r--. 1 luxcium luxcium  797 27 oct  2022 velocity.svg
+-rw-r--r--  1 luxcium luxcium  138 24 avr 21:07 vercel_light.svg
+-rw-r--r--  1 luxcium luxcium  138 24 avr 21:07 vercel.svg
+-rw-r--r--  1 luxcium luxcium  338 17 fév 17:01 verdaccio.svg
+-rw-r--r--  1 luxcium luxcium 1,1K 24 avr 21:07 verilog.svg
+-rw-rw-r--. 1 luxcium luxcium 1,3K 27 oct  2022 vfl.svg
+-rw-r--r--  1 luxcium luxcium  203 24 avr 21:07 video.svg
+-rw-r--r--  1 luxcium luxcium  218 24 avr 21:07 vim.svg
+-rw-r--r--  1 luxcium luxcium  155 24 avr 21:07 virtual.svg
+-rw-r--r--  1 luxcium luxcium  307 24 avr 21:07 visualstudio.svg
+-rw-r--r--  1 luxcium luxcium  714 24 avr 21:07 vitest.svg
+-rw-r--r--  1 luxcium luxcium  132 24 avr 21:07 vite.svg
+-rw-rw-r--. 1 luxcium luxcium  562 27 oct  2022 vlang.svg
+-rw-r--r--  1 luxcium luxcium  241 24 avr 21:07 vscode.svg
+-rw-r--r--  1 luxcium luxcium  496 24 avr 21:07 vue-config.svg
+-rw-r--r--  1 luxcium luxcium  329 17 fév 17:01 vue.svg
+-rw-rw-r--. 1 luxcium luxcium  453 27 oct  2022 vuex-store.svg
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 wakatime_light.svg
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 wakatime.svg
+-rw-r--r--  1 luxcium luxcium  149 24 avr 21:07 wallaby.svg
+-rw-rw-r--. 1 luxcium luxcium 3,0K 27 oct  2022 watchman.svg
+-rw-r--r--  1 luxcium luxcium  308 24 avr 21:07 webassembly.svg
+-rw-r--r--  1 luxcium luxcium  874 17 fév 17:01 webhint.svg
+-rw-rw-r--. 1 luxcium luxcium  753 27 oct  2022 webpack.svg
+-rw-r--r--  1 luxcium luxcium  217 24 avr 21:07 wepy.svg
+-rw-r--r--  1 luxcium luxcium 1,8K 17 fév 17:01 werf.svg
+-rw-r--r--  1 luxcium luxcium  511 24 avr 21:07 windicss.svg
+-rw-rw-r--. 1 luxcium luxcium 1,9K 27 oct  2022 wolframlanguage.svg
+-rw-rw-r--. 1 luxcium luxcium  259 27 oct  2022 word.svg
+-rw-r--r--  1 luxcium luxcium  395 24 avr 21:07 xaml.svg
+-rw-rw-r--. 1 luxcium luxcium  310 27 oct  2022 xml.svg
+-rw-r--r--  1 luxcium luxcium  219 24 avr 21:07 yaml.svg
+-rw-rw-r--. 1 luxcium luxcium  445 27 oct  2022 yang.svg
+-rw-r--r--  1 luxcium luxcium 1,3K 24 avr 21:07 yarn.svg
+-rw-r--r--  1 luxcium luxcium  695 24 avr 21:07 zig.svg
+-rw-r--r--  1 luxcium luxcium  249 24 avr 21:07 zip.svg
+
+./icons/old-icons:
+total 3,4M
+-rw-r--r-- 1 luxcium luxcium  404 17 fév 17:01 3d.svg
+-rw-r--r-- 1 luxcium luxcium  768 17 fév 17:01 abc.svg
+-rw-r--r-- 1 luxcium luxcium 2,0K 17 fév 17:01 actionscript.svg
+-rw-r--r-- 1 luxcium luxcium  360 17 fév 17:01 ada.svg
+-rw-r--r-- 1 luxcium luxcium  286 17 fév 17:01 adonis.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 advpl_include.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 advpl_prw.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 advpl_ptm.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 advpl_tlpp.svg
+-rw-r--r-- 1 luxcium luxcium  949 17 fév 17:01 android.svg
+-rw-r--r-- 1 luxcium luxcium  233 17 fév 17:01 angular-component.svg
+-rw-r--r-- 1 luxcium luxcium  233 17 fév 17:01 angular-directive.svg
+-rw-r--r-- 1 luxcium luxcium  233 17 fév 17:01 angular-guard.svg
+-rw-r--r-- 1 luxcium luxcium  233 17 fév 17:01 angular-pipe.svg
+-rw-r--r-- 1 luxcium luxcium  233 17 fév 17:01 angular-resolver.svg
+-rw-r--r-- 1 luxcium luxcium  233 17 fév 17:01 angular-service.svg
+-rw-r--r-- 1 luxcium luxcium  233 17 fév 17:01 angular.svg
+-rw-r--r-- 1 luxcium luxcium  823 17 fév 17:01 antlr.svg
+-rw-r--r-- 1 luxcium luxcium  675 17 fév 17:01 apiblueprint.svg
+-rw-r--r-- 1 luxcium luxcium  788 17 fév 17:01 apollo.svg
+-rw-r--r-- 1 luxcium luxcium  541 17 fév 17:01 applescript.svg
+-rw-r--r-- 1 luxcium luxcium  780 17 fév 17:01 appveyor.svg
+-rw-r--r-- 1 luxcium luxcium  762 17 fév 17:01 architecture.svg
+-rw-r--r-- 1 luxcium luxcium  817 17 fév 17:01 arduino.svg
+-rw-r--r-- 1 luxcium luxcium  893 17 fév 17:01 asciidoc.svg
+-rw-r--r-- 1 luxcium luxcium 1,8K 17 fév 17:01 assembly.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 astro.svg
+-rw-r--r-- 1 luxcium luxcium  618 17 fév 17:01 astyle.svg
+-rw-r--r-- 1 luxcium luxcium  275 17 fév 17:01 audio.svg
+-rw-r--r-- 1 luxcium luxcium 4,9K 17 fév 17:01 aurelia.svg
+-rw-r--r-- 1 luxcium luxcium  559 17 fév 17:01 authors.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 autohotkey.svg
+-rw-r--r-- 1 luxcium luxcium  438 17 fév 17:01 autoit.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 auto_light.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 auto.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 azure-pipelines.svg
+-rw-r--r-- 1 luxcium luxcium  524 17 fév 17:01 azure.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 babel.svg
+-rw-r--r-- 1 luxcium luxcium  434 17 fév 17:01 ballerina.svg
+-rw-r--r-- 1 luxcium luxcium  830 17 fév 17:01 bazel.svg
+-rw-r--r-- 1 luxcium luxcium  284 17 fév 17:01 bicep.svg
+-rw-r--r-- 1 luxcium luxcium  850 17 fév 17:01 bitbucket.svg
+-rw-r--r-- 1 luxcium luxcium 2,1K 17 fév 17:01 bithound.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 blink_light.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 blink.svg
+-rw-r--r-- 1 luxcium luxcium  370 17 fév 17:01 blitz.svg
+-rw-r--r-- 1 luxcium luxcium 3,7K 17 fév 17:01 bower.svg
+-rw-r--r-- 1 luxcium luxcium 2,0K 17 fév 17:01 brainfuck.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 browserlist_light.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 browserlist.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 bucklescript.svg
+-rw-r--r-- 1 luxcium luxcium  707 17 fév 17:01 buck.svg
+-rw-r--r-- 1 luxcium luxcium  340 17 fév 17:01 buildkite.svg
+-rw-r--r-- 1 luxcium luxcium  838 17 fév 17:01 cabal.svg
+-rw-r--r-- 1 luxcium luxcium  760 17 fév 17:01 caddy.svg
+-rw-r--r-- 1 luxcium luxcium  459 17 fév 17:01 cadence.svg
+-rw-r--r-- 1 luxcium luxcium  764 17 fév 17:01 cake.svg
+-rw-r--r-- 1 luxcium luxcium  347 17 fév 17:01 capacitor.svg
+-rw-r--r-- 1 luxcium luxcium  280 17 fév 17:01 certificate.svg
+-rw-r--r-- 1 luxcium luxcium  363 17 fév 17:01 changelog.svg
+-rw-r--r-- 1 luxcium luxcium  277 17 fév 17:01 chess_light.svg
+-rw-r--r-- 1 luxcium luxcium  277 17 fév 17:01 chess.svg
+-rw-r--r-- 1 luxcium luxcium  760 17 fév 17:01 circleci_light.svg
+-rw-r--r-- 1 luxcium luxcium  760 17 fév 17:01 circleci.svg
+-rw-r--r-- 1 luxcium luxcium 2,1K 17 fév 17:01 clojure.svg
+-rw-r--r-- 1 luxcium luxcium 2,4K 17 fév 17:01 cloudfoundry.svg
+-rw-r--r-- 1 luxcium luxcium  340 17 fév 17:01 cmake.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 coala.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 cobol.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 coconut.svg
+-rw-r--r-- 1 luxcium luxcium  383 17 fév 17:01 code-climate_light.svg
+-rw-r--r-- 1 luxcium luxcium  380 17 fév 17:01 code-climate.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 codecov.svg
+-rw-r--r-- 1 luxcium luxcium  287 17 fév 17:01 codeowners.svg
+-rw-r--r-- 1 luxcium luxcium  193 17 fév 17:01 coffee.svg
+-rw-r--r-- 1 luxcium luxcium  662 17 fév 17:01 coldfusion.svg
+-rw-r--r-- 1 luxcium luxcium 1023 17 fév 17:01 command.svg
+-rw-r--r-- 1 luxcium luxcium  516 17 fév 17:01 commitlint.svg
+-rw-r--r-- 1 luxcium luxcium  318 17 fév 17:01 conduct.svg
+-rw-r--r-- 1 luxcium luxcium  259 17 fév 17:01 console.svg
+-rw-r--r-- 1 luxcium luxcium  310 17 fév 17:01 contributing.svg
+-rw-r--r-- 1 luxcium luxcium  541 17 fév 17:01 cpp.svg
+-rw-r--r-- 1 luxcium luxcium  164 17 fév 17:01 credits.svg
+-rw-r--r-- 1 luxcium luxcium  498 17 fév 17:01 crystal_light.svg
+-rw-r--r-- 1 luxcium luxcium  498 17 fév 17:01 crystal.svg
+-rw-r--r-- 1 luxcium luxcium  642 17 fév 17:01 csharp.svg
+-rw-r--r-- 1 luxcium luxcium  393 17 fév 17:01 css-map.svg
+-rw-r--r-- 1 luxcium luxcium  234 17 fév 17:01 css.svg
+-rw-r--r-- 1 luxcium luxcium  481 17 fév 17:01 c.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 cucumber.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 cuda.svg
+-rw-r--r-- 1 luxcium luxcium  899 17 fév 17:01 cypress.svg
+-rw-r--r-- 1 luxcium luxcium  704 17 fév 17:01 dart_generated.svg
+-rw-r--r-- 1 luxcium luxcium  716 17 fév 17:01 dart.svg
+-rw-r--r-- 1 luxcium luxcium  291 17 fév 17:01 database.svg
+-rw-r--r-- 1 luxcium luxcium  336 17 fév 17:01 denizenscript.svg
+-rw-r--r-- 1 luxcium luxcium  717 17 fév 17:01 dependabot.svg
+-rw-r--r-- 1 luxcium luxcium  367 17 fév 17:01 dhall.svg
+-rw-r--r-- 1 luxcium luxcium  381 17 fév 17:01 diff.svg
+-rw-r--r-- 1 luxcium luxcium 7,6K 17 fév 17:01 dinophp.svg
+-rw-r--r-- 1 luxcium luxcium  288 17 fév 17:01 disc.svg
+-rw-r--r-- 1 luxcium luxcium  912 17 fév 17:01 django.svg
+-rw-r--r-- 1 luxcium luxcium 1,8K 17 fév 17:01 docker.svg
+-rw-r--r-- 1 luxcium luxcium  201 17 fév 17:01 document.svg
+-rw-r--r-- 1 luxcium luxcium  598 17 fév 17:01 dotjs.svg
+-rw-r--r-- 1 luxcium luxcium  444 17 fév 17:01 drawio.svg
+-rw-r--r-- 1 luxcium luxcium  745 17 fév 17:01 drone_light.svg
+-rw-r--r-- 1 luxcium luxcium  763 17 fév 17:01 drone.svg
+-rw-r--r-- 1 luxcium luxcium  964 17 fév 17:01 d.svg
+-rw-r--r-- 1 luxcium luxcium  171 17 fév 17:01 dune.svg
+-rw-r--r-- 1 luxcium luxcium  793 17 fév 17:01 edge.svg
+-rw-r--r-- 1 luxcium luxcium 5,5K 17 fév 17:01 editorconfig.svg
+-rw-r--r-- 1 luxcium luxcium  438 17 fév 17:01 ejs.svg
+-rw-r--r-- 1 luxcium luxcium  317 17 fév 17:01 elixir.svg
+-rw-r--r-- 1 luxcium luxcium  555 17 fév 17:01 elm.svg
+-rw-r--r-- 1 luxcium luxcium  191 17 fév 17:01 email.svg
+-rw-r--r-- 1 luxcium luxcium  554 17 fév 17:01 ember.svg
+-rw-r--r-- 1 luxcium luxcium  563 17 fév 17:01 erlang.svg
+-rw-r--r-- 1 luxcium luxcium  940 17 fév 17:01 eslint.svg
+-rw-r--r-- 1 luxcium luxcium  180 17 fév 17:01 exe.svg
+-rw-r--r-- 1 luxcium luxcium 2,8K 17 fév 17:01 fastlane.svg
+-rw-r--r-- 1 luxcium luxcium  185 17 fév 17:01 favicon.svg
+-rw-r--r-- 1 luxcium luxcium  699 17 fév 17:01 figma.svg
+-rw-r--r-- 1 luxcium luxcium  193 17 fév 17:01 file.svg
+-rw-r--r-- 1 luxcium luxcium  417 17 fév 17:01 firebase.svg
+-rw-r--r-- 1 luxcium luxcium  349 17 fév 17:01 flash.svg
+-rw-r--r-- 1 luxcium luxcium  493 17 fév 17:01 flow.svg
+-rw-r--r-- 1 luxcium luxcium  800 17 fév 17:01 folder-admin-open.svg
+-rw-r--r-- 1 luxcium luxcium  812 17 fév 17:01 folder-admin.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-android-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-android.svg
+-rw-r--r-- 1 luxcium luxcium  514 17 fév 17:01 folder-angular-open.svg
+-rw-r--r-- 1 luxcium luxcium  525 17 fév 17:01 folder-angular.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-animation-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-animation.svg
+-rw-r--r-- 1 luxcium luxcium  981 17 fév 17:01 folder-ansible-open.svg
+-rw-r--r-- 1 luxcium luxcium  965 17 fév 17:01 folder-ansible.svg
+-rw-r--r-- 1 luxcium luxcium  513 17 fév 17:01 folder-api-open.svg
+-rw-r--r-- 1 luxcium luxcium  504 17 fév 17:01 folder-api.svg
+-rw-r--r-- 1 luxcium luxcium  933 17 fév 17:01 folder-apollo-open.svg
+-rw-r--r-- 1 luxcium luxcium  942 17 fév 17:01 folder-apollo.svg
+-rw-r--r-- 1 luxcium luxcium  632 17 fév 17:01 folder-app-open.svg
+-rw-r--r-- 1 luxcium luxcium  645 17 fév 17:01 folder-app.svg
+-rw-r--r-- 1 luxcium luxcium  732 17 fév 17:01 folder-archive-open.svg
+-rw-r--r-- 1 luxcium luxcium  779 17 fév 17:01 folder-archive.svg
+-rw-r--r-- 1 luxcium luxcium  627 17 fév 17:01 folder-audio-open.svg
+-rw-r--r-- 1 luxcium luxcium  639 17 fév 17:01 folder-audio.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 folder-aurelia-open.svg
+-rw-r--r-- 1 luxcium luxcium 5,1K 17 fév 17:01 folder-aurelia.svg
+-rw-r--r-- 1 luxcium luxcium  535 17 fév 17:01 folder-aws-open.svg
+-rw-r--r-- 1 luxcium luxcium  546 17 fév 17:01 folder-aws.svg
+-rw-r--r-- 1 luxcium luxcium  806 17 fév 17:01 folder-azure-pipelines-open.svg
+-rw-r--r-- 1 luxcium luxcium  783 17 fév 17:01 folder-azure-pipelines.svg
+-rw-r--r-- 1 luxcium luxcium  463 17 fév 17:01 folder-base-open.svg
+-rw-r--r-- 1 luxcium luxcium  474 17 fév 17:01 folder-base.svg
+-rw-r--r-- 1 luxcium luxcium  458 17 fév 17:01 folder-batch-open.svg
+-rw-r--r-- 1 luxcium luxcium  449 17 fév 17:01 folder-batch.svg
+-rw-r--r-- 1 luxcium luxcium  920 17 fév 17:01 folder-benchmark-open.svg
+-rw-r--r-- 1 luxcium luxcium  931 17 fév 17:01 folder-benchmark.svg
+-rw-r--r-- 1 luxcium luxcium 3,6K 17 fév 17:01 folder-bower-open.svg
+-rw-r--r-- 1 luxcium luxcium 3,6K 17 fév 17:01 folder-bower.svg
+-rw-r--r-- 1 luxcium luxcium  528 17 fév 17:01 folder-buildkite-open.svg
+-rw-r--r-- 1 luxcium luxcium  499 17 fév 17:01 folder-buildkite.svg
+-rw-r--r-- 1 luxcium luxcium  931 17 fév 17:01 folder-cart-open.svg
+-rw-r--r-- 1 luxcium luxcium  942 17 fév 17:01 folder-cart.svg
+-rw-r--r-- 1 luxcium luxcium  711 17 fév 17:01 folder-ci-open.svg
+-rw-r--r-- 1 luxcium luxcium  443 17 fév 17:01 folder-circleci-open.svg
+-rw-r--r-- 1 luxcium luxcium  418 17 fév 17:01 folder-circleci.svg
+-rw-r--r-- 1 luxcium luxcium  722 17 fév 17:01 folder-ci.svg
+-rw-r--r-- 1 luxcium luxcium  543 17 fév 17:01 folder-class-open.svg
+-rw-r--r-- 1 luxcium luxcium  556 17 fév 17:01 folder-class.svg
+-rw-r--r-- 1 luxcium luxcium  646 17 fév 17:01 folder-client-open.svg
+-rw-r--r-- 1 luxcium luxcium  657 17 fév 17:01 folder-client.svg
+-rw-r--r-- 1 luxcium luxcium  471 17 fév 17:01 folder-cluster-open.svg
+-rw-r--r-- 1 luxcium luxcium  462 17 fév 17:01 folder-cluster.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-cobol-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-cobol.svg
+-rw-r--r-- 1 luxcium luxcium  517 17 fév 17:01 folder-command-open.svg
+-rw-r--r-- 1 luxcium luxcium  508 17 fév 17:01 folder-command.svg
+-rw-r--r-- 1 luxcium luxcium  481 17 fév 17:01 folder-components-open.svg
+-rw-r--r-- 1 luxcium luxcium  492 17 fév 17:01 folder-components.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-config-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-config.svg
+-rw-r--r-- 1 luxcium luxcium  767 17 fév 17:01 folder-connection-open.svg
+-rw-r--r-- 1 luxcium luxcium  778 17 fév 17:01 folder-connection.svg
+-rw-r--r-- 1 luxcium luxcium  751 17 fév 17:01 folder-constant-open.svg
+-rw-r--r-- 1 luxcium luxcium  740 17 fév 17:01 folder-constant.svg
+-rw-r--r-- 1 luxcium luxcium  782 17 fév 17:01 folder-container-open.svg
+-rw-r--r-- 1 luxcium luxcium  793 17 fév 17:01 folder-container.svg
+-rw-r--r-- 1 luxcium luxcium  605 17 fév 17:01 folder-content-open.svg
+-rw-r--r-- 1 luxcium luxcium  617 17 fév 17:01 folder-content.svg
+-rw-r--r-- 1 luxcium luxcium  886 17 fév 17:01 folder-context-open.svg
+-rw-r--r-- 1 luxcium luxcium  858 17 fév 17:01 folder-context.svg
+-rw-r--r-- 1 luxcium luxcium  942 17 fév 17:01 folder-contract-open.svg
+-rw-r--r-- 1 luxcium luxcium  952 17 fév 17:01 folder-contract.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-controller-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-controller.svg
+-rw-r--r-- 1 luxcium luxcium  949 17 fév 17:01 folder-core-open.svg
+-rw-r--r-- 1 luxcium luxcium  940 17 fév 17:01 folder-core.svg
+-rw-r--r-- 1 luxcium luxcium  545 17 fév 17:01 folder-coverage-open.svg
+-rw-r--r-- 1 luxcium luxcium  556 17 fév 17:01 folder-coverage.svg
+-rw-r--r-- 1 luxcium luxcium  584 17 fév 17:01 folder-css-open.svg
+-rw-r--r-- 1 luxcium luxcium  555 17 fév 17:01 folder-css.svg
+-rw-r--r-- 1 luxcium luxcium  572 17 fév 17:01 folder-custom-open.svg
+-rw-r--r-- 1 luxcium luxcium  543 17 fév 17:01 folder-custom.svg
+-rw-r--r-- 1 luxcium luxcium 1007 17 fév 17:01 folder-cypress-open.svg
+-rw-r--r-- 1 luxcium luxcium  978 17 fév 17:01 folder-cypress.svg
+-rw-r--r-- 1 luxcium luxcium  778 17 fév 17:01 folder-database-open.svg
+-rw-r--r-- 1 luxcium luxcium  789 17 fév 17:01 folder-database.svg
+-rw-r--r-- 1 luxcium luxcium  887 17 fév 17:01 folder-debug-open.svg
+-rw-r--r-- 1 luxcium luxcium  898 17 fév 17:01 folder-debug.svg
+-rw-r--r-- 1 luxcium luxcium  395 17 fév 17:01 folder-delta-open.svg
+-rw-r--r-- 1 luxcium luxcium  386 17 fév 17:01 folder-delta.svg
+-rw-r--r-- 1 luxcium luxcium  593 17 fév 17:01 folder-dist-open.svg
+-rw-r--r-- 1 luxcium luxcium  584 17 fév 17:01 folder-dist.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 folder-docker-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 folder-docker.svg
+-rw-r--r-- 1 luxcium luxcium  612 17 fév 17:01 folder-docs-open.svg
+-rw-r--r-- 1 luxcium luxcium  583 17 fév 17:01 folder-docs.svg
+-rw-r--r-- 1 luxcium luxcium  471 17 fév 17:01 folder-download-open.svg
+-rw-r--r-- 1 luxcium luxcium  482 17 fév 17:01 folder-download.svg
+-rw-r--r-- 1 luxcium luxcium  660 17 fév 17:01 folder-dump-open.svg
+-rw-r--r-- 1 luxcium luxcium  651 17 fév 17:01 folder-dump.svg
+-rw-r--r-- 1 luxcium luxcium  458 17 fév 17:01 folder-environment-open.svg
+-rw-r--r-- 1 luxcium luxcium  449 17 fév 17:01 folder-environment.svg
+-rw-r--r-- 1 luxcium luxcium  469 17 fév 17:01 folder-error-open.svg
+-rw-r--r-- 1 luxcium luxcium  444 17 fév 17:01 folder-error.svg
+-rw-r--r-- 1 luxcium luxcium  628 17 fév 17:01 folder-event-open.svg
+-rw-r--r-- 1 luxcium luxcium  639 17 fév 17:01 folder-event.svg
+-rw-r--r-- 1 luxcium luxcium  688 17 fév 17:01 folder-examples-open.svg
+-rw-r--r-- 1 luxcium luxcium  679 17 fév 17:01 folder-examples.svg
+-rw-r--r-- 1 luxcium luxcium  780 17 fév 17:01 folder-expo-open.svg
+-rw-r--r-- 1 luxcium luxcium  786 17 fév 17:01 folder-export-open.svg
+-rw-r--r-- 1 luxcium luxcium  661 17 fév 17:01 folder-export.svg
+-rw-r--r-- 1 luxcium luxcium  759 17 fév 17:01 folder-expo.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 folder-fastlane-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 folder-fastlane.svg
+-rw-r--r-- 1 luxcium luxcium  674 17 fév 17:01 folder-firebase-open.svg
+-rw-r--r-- 1 luxcium luxcium  685 17 fév 17:01 folder-firebase.svg
+-rw-r--r-- 1 luxcium luxcium  624 17 fév 17:01 folder-flow-open.svg
+-rw-r--r-- 1 luxcium luxcium  595 17 fév 17:01 folder-flow.svg
+-rw-r--r-- 1 luxcium luxcium  486 17 fév 17:01 folder-font-open.svg
+-rw-r--r-- 1 luxcium luxcium  497 17 fév 17:01 folder-font.svg
+-rw-r--r-- 1 luxcium luxcium  798 17 fév 17:01 folder-functions-open.svg
+-rw-r--r-- 1 luxcium luxcium  810 17 fév 17:01 folder-functions.svg
+-rw-r--r-- 1 luxcium luxcium  768 17 fév 17:01 folder-generator-open.svg
+-rw-r--r-- 1 luxcium luxcium  779 17 fév 17:01 folder-generator.svg
+-rw-r--r-- 1 luxcium luxcium  976 17 fév 17:01 folder-github-open.svg
+-rw-r--r-- 1 luxcium luxcium  989 17 fév 17:01 folder-github.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-gitlab-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-gitlab.svg
+-rw-r--r-- 1 luxcium luxcium  903 17 fév 17:01 folder-git-open.svg
+-rw-r--r-- 1 luxcium luxcium  874 17 fév 17:01 folder-git.svg
+-rw-r--r-- 1 luxcium luxcium  778 17 fév 17:01 folder-global-open.svg
+-rw-r--r-- 1 luxcium luxcium  789 17 fév 17:01 folder-global.svg
+-rw-r--r-- 1 luxcium luxcium  983 17 fév 17:01 folder-gradle-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-gradle.svg
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 folder-graphql-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 folder-graphql.svg
+-rw-r--r-- 1 luxcium luxcium  767 17 fév 17:01 folder-guard-open.svg
+-rw-r--r-- 1 luxcium luxcium  776 17 fév 17:01 folder-guard.svg
+-rw-r--r-- 1 luxcium luxcium  628 17 fév 17:01 folder-gulp-open.svg
+-rw-r--r-- 1 luxcium luxcium  651 17 fév 17:01 folder-gulp.svg
+-rw-r--r-- 1 luxcium luxcium  659 17 fév 17:01 folder-helper-open.svg
+-rw-r--r-- 1 luxcium luxcium  670 17 fév 17:01 folder-helper.svg
+-rw-r--r-- 1 luxcium luxcium  468 17 fév 17:01 folder-home-open.svg
+-rw-r--r-- 1 luxcium luxcium  479 17 fév 17:01 folder-home.svg
+-rw-r--r-- 1 luxcium luxcium  665 17 fév 17:01 folder-hook-open.svg
+-rw-r--r-- 1 luxcium luxcium  683 17 fév 17:01 folder-hook.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-husky-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-husky.svg
+-rw-r--r-- 1 luxcium luxcium  719 17 fév 17:01 folder-i18n-open.svg
+-rw-r--r-- 1 luxcium luxcium  730 17 fév 17:01 folder-i18n.svg
+-rw-r--r-- 1 luxcium luxcium  687 17 fév 17:01 folder-images-open.svg
+-rw-r--r-- 1 luxcium luxcium  658 17 fév 17:01 folder-images.svg
+-rw-r--r-- 1 luxcium luxcium  598 17 fév 17:01 folder-import-open.svg
+-rw-r--r-- 1 luxcium luxcium  609 17 fév 17:01 folder-import.svg
+-rw-r--r-- 1 luxcium luxcium  551 17 fév 17:01 folder-include-open.svg
+-rw-r--r-- 1 luxcium luxcium  562 17 fév 17:01 folder-include.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 folder-intellij_light.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 folder-intellij-open_light.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 folder-intellij-open.svg
+-rw-r--r-- 1 luxcium luxcium 2,2K 17 fév 17:01 folder-intellij.svg
+-rw-r--r-- 1 luxcium luxcium  543 17 fév 17:01 folder-interface-open.svg
+-rw-r--r-- 1 luxcium luxcium  556 17 fév 17:01 folder-interface.svg
+-rw-r--r-- 1 luxcium luxcium  815 17 fév 17:01 folder-ios-open.svg
+-rw-r--r-- 1 luxcium luxcium  826 17 fév 17:01 folder-ios.svg
+-rw-r--r-- 1 luxcium luxcium  563 17 fév 17:01 folder-java-open.svg
+-rw-r--r-- 1 luxcium luxcium  878 17 fév 17:01 folder-javascript-open.svg
+-rw-r--r-- 1 luxcium luxcium  909 17 fév 17:01 folder-javascript.svg
+-rw-r--r-- 1 luxcium luxcium  574 17 fév 17:01 folder-java.svg
+-rw-r--r-- 1 luxcium luxcium  638 17 fév 17:01 folder-jinja_light.svg
+-rw-r--r-- 1 luxcium luxcium  652 17 fév 17:01 folder-jinja-open_light.svg
+-rw-r--r-- 1 luxcium luxcium  652 17 fév 17:01 folder-jinja-open.svg
+-rw-r--r-- 1 luxcium luxcium  638 17 fév 17:01 folder-jinja.svg
+-rw-r--r-- 1 luxcium luxcium  741 17 fév 17:01 folder-job-open.svg
+-rw-r--r-- 1 luxcium luxcium  734 17 fév 17:01 folder-job.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-json-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-json.svg
+-rw-r--r-- 1 luxcium luxcium  654 17 fév 17:01 folder-keys-open.svg
+-rw-r--r-- 1 luxcium luxcium  645 17 fév 17:01 folder-keys.svg
+-rw-r--r-- 1 luxcium luxcium 4,6K 17 fév 17:01 folder-kubernetes-open.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 folder-kubernetes.svg
+-rw-r--r-- 1 luxcium luxcium  482 17 fév 17:01 folder-layout-open.svg
+-rw-r--r-- 1 luxcium luxcium  491 17 fév 17:01 folder-layout.svg
+-rw-r--r-- 1 luxcium luxcium 1,9K 17 fév 17:01 folder-less-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,9K 17 fév 17:01 folder-less.svg
+-rw-r--r-- 1 luxcium luxcium  589 17 fév 17:01 folder-lib-open.svg
+-rw-r--r-- 1 luxcium luxcium  599 17 fév 17:01 folder-lib.svg
+-rw-r--r-- 1 luxcium luxcium  583 17 fév 17:01 folder-log-open.svg
+-rw-r--r-- 1 luxcium luxcium  593 17 fév 17:01 folder-log.svg
+-rw-r--r-- 1 luxcium luxcium  657 17 fév 17:01 folder-lua-open.svg
+-rw-r--r-- 1 luxcium luxcium  658 17 fév 17:01 folder-lua.svg
+-rw-r--r-- 1 luxcium luxcium  605 17 fév 17:01 folder-mail-open.svg
+-rw-r--r-- 1 luxcium luxcium  596 17 fév 17:01 folder-mail.svg
+-rw-r--r-- 1 luxcium luxcium  724 17 fév 17:01 folder-mappings-open.svg
+-rw-r--r-- 1 luxcium luxcium  715 17 fév 17:01 folder-mappings.svg
+-rw-r--r-- 1 luxcium luxcium  523 17 fév 17:01 folder-markdown-open.svg
+-rw-r--r-- 1 luxcium luxcium  514 17 fév 17:01 folder-markdown.svg
+-rw-r--r-- 1 luxcium luxcium  688 17 fév 17:01 folder-messages-open.svg
+-rw-r--r-- 1 luxcium luxcium  704 17 fév 17:01 folder-messages.svg
+-rw-r--r-- 1 luxcium luxcium  668 17 fév 17:01 folder-meta-open.svg
+-rw-r--r-- 1 luxcium luxcium  679 17 fév 17:01 folder-meta.svg
+-rw-r--r-- 1 luxcium luxcium  821 17 fév 17:01 folder-middleware-open.svg
+-rw-r--r-- 1 luxcium luxcium  832 17 fév 17:01 folder-middleware.svg
+-rw-r--r-- 1 luxcium luxcium  930 17 fév 17:01 folder-mjml-open.svg
+-rw-r--r-- 1 luxcium luxcium  956 17 fév 17:01 folder-mjml.svg
+-rw-r--r-- 1 luxcium luxcium  707 17 fév 17:01 folder-mobile-open.svg
+-rw-r--r-- 1 luxcium luxcium  719 17 fév 17:01 folder-mobile.svg
+-rw-r--r-- 1 luxcium luxcium  546 17 fév 17:01 folder-mock-open.svg
+-rw-r--r-- 1 luxcium luxcium  526 17 fév 17:01 folder-mock.svg
+-rw-r--r-- 1 luxcium luxcium 3,5K 17 fév 17:01 folder-netlify-open.svg
+-rw-r--r-- 1 luxcium luxcium 3,5K 17 fév 17:01 folder-netlify.svg
+-rw-r--r-- 1 luxcium luxcium  609 17 fév 17:01 folder-next-open.svg
+-rw-r--r-- 1 luxcium luxcium  620 17 fév 17:01 folder-next.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-actions-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-actions.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-effects-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-effects.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-entities-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-entities.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-reducer-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-reducer.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-ngrx-selectors-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-ngrx-selectors.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-ngrx-state-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-ngrx-state.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-store-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 folder-ngrx-store.svg
+-rw-r--r-- 1 luxcium luxcium  427 17 fév 17:01 folder-node-open.svg
+-rw-r--r-- 1 luxcium luxcium  398 17 fév 17:01 folder-node.svg
+-rw-r--r-- 1 luxcium luxcium  663 17 fév 17:01 folder-nuxt-open.svg
+-rw-r--r-- 1 luxcium luxcium  634 17 fév 17:01 folder-nuxt.svg
+-rw-r--r-- 1 luxcium luxcium  824 17 fév 17:01 folder-other-open.svg
+-rw-r--r-- 1 luxcium luxcium  835 17 fév 17:01 folder-other.svg
+-rw-r--r-- 1 luxcium luxcium  692 17 fév 17:01 folder-packages-open.svg
+-rw-r--r-- 1 luxcium luxcium  685 17 fév 17:01 folder-packages.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 folder-pdf-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 folder-pdf.svg
+-rw-r--r-- 1 luxcium luxcium  697 17 fév 17:01 folder-phpmailer-open.svg
+-rw-r--r-- 1 luxcium luxcium  678 17 fév 17:01 folder-phpmailer.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 folder-php-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 folder-php.svg
+-rw-r--r-- 1 luxcium luxcium  599 17 fév 17:01 folder-pipe-open.svg
+-rw-r--r-- 1 luxcium luxcium  608 17 fév 17:01 folder-pipe.svg
+-rw-r--r-- 1 luxcium luxcium  821 17 fév 17:01 folder-plugin-open.svg
+-rw-r--r-- 1 luxcium luxcium  832 17 fév 17:01 folder-plugin.svg
+-rw-r--r-- 1 luxcium luxcium  768 17 fév 17:01 folder-prisma-open.svg
+-rw-r--r-- 1 luxcium luxcium  739 17 fév 17:01 folder-prisma.svg
+-rw-r--r-- 1 luxcium luxcium  734 17 fév 17:01 folder-private-open.svg
+-rw-r--r-- 1 luxcium luxcium  744 17 fév 17:01 folder-private.svg
+-rw-r--r-- 1 luxcium luxcium  741 17 fév 17:01 folder-project-open.svg
+-rw-r--r-- 1 luxcium luxcium  752 17 fév 17:01 folder-project.svg
+-rw-r--r-- 1 luxcium luxcium  558 17 fév 17:01 folder-proto-open.svg
+-rw-r--r-- 1 luxcium luxcium  569 17 fév 17:01 folder-proto.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 folder-public-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 folder-public.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-python-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-python.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-quasar-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-quasar.svg
+-rw-r--r-- 1 luxcium luxcium  14K 17 fév 17:01 folder-queue-open.svg
+-rw-r--r-- 1 luxcium luxcium  14K 17 fév 17:01 folder-queue.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 folder-react-components-open.svg
+-rw-r--r-- 1 luxcium luxcium 2,4K 17 fév 17:01 folder-react-components.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-redux-actions-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-redux-actions.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-redux-reducer-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-redux-reducer.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-redux-selector-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-redux-selector.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-redux-store-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-redux-store.svg
+-rw-r--r-- 1 luxcium luxcium  406 17 fév 17:01 folder-resolver-open.svg
+-rw-r--r-- 1 luxcium luxcium  417 17 fév 17:01 folder-resolver.svg
+-rw-r--r-- 1 luxcium luxcium  661 17 fév 17:01 folder-resource-open.svg
+-rw-r--r-- 1 luxcium luxcium  672 17 fév 17:01 folder-resource.svg
+-rw-r--r-- 1 luxcium luxcium  770 17 fév 17:01 folder-review-open.svg
+-rw-r--r-- 1 luxcium luxcium  780 17 fév 17:01 folder-review.svg
+-rw-r--r-- 1 luxcium luxcium  570 17 fév 17:01 folder-routes-open.svg
+-rw-r--r-- 1 luxcium luxcium  582 17 fév 17:01 folder-routes.svg
+-rw-r--r-- 1 luxcium luxcium  731 17 fév 17:01 folder-rules-open.svg
+-rw-r--r-- 1 luxcium luxcium  742 17 fév 17:01 folder-rules.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-sass-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 folder-sass.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-scala-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-scala.svg
+-rw-r--r-- 1 luxcium luxcium  680 17 fév 17:01 folder-scripts-open.svg
+-rw-r--r-- 1 luxcium luxcium  651 17 fév 17:01 folder-scripts.svg
+-rw-r--r-- 1 luxcium luxcium  836 17 fév 17:01 folder-secure-open.svg
+-rw-r--r-- 1 luxcium luxcium  843 17 fév 17:01 folder-secure.svg
+-rw-r--r-- 1 luxcium luxcium  432 17 fév 17:01 folder-serverless-open.svg
+-rw-r--r-- 1 luxcium luxcium  402 17 fév 17:01 folder-serverless.svg
+-rw-r--r-- 1 luxcium luxcium  959 17 fév 17:01 folder-server-open.svg
+-rw-r--r-- 1 luxcium luxcium  970 17 fév 17:01 folder-server.svg
+-rw-r--r-- 1 luxcium luxcium  457 17 fév 17:01 folder-shader-open.svg
+-rw-r--r-- 1 luxcium luxcium  428 17 fév 17:01 folder-shader.svg
+-rw-r--r-- 1 luxcium luxcium  611 17 fév 17:01 folder-shared-open.svg
+-rw-r--r-- 1 luxcium luxcium  602 17 fév 17:01 folder-shared.svg
+-rw-r--r-- 1 luxcium luxcium 1008 17 fév 17:01 folder-src-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-src.svg
+-rw-r--r-- 1 luxcium luxcium  640 17 fév 17:01 folder-stack-open.svg
+-rw-r--r-- 1 luxcium luxcium  651 17 fév 17:01 folder-stack.svg
+-rw-r--r-- 1 luxcium luxcium  516 17 fév 17:01 folder-stencil-open.svg
+-rw-r--r-- 1 luxcium luxcium  526 17 fév 17:01 folder-stencil.svg
+-rw-r--r-- 1 luxcium luxcium  594 17 fév 17:01 folder-storybook-open.svg
+-rw-r--r-- 1 luxcium luxcium  569 17 fév 17:01 folder-storybook.svg
+-rw-r--r-- 1 luxcium luxcium  776 17 fév 17:01 folder-stylus-open.svg
+-rw-r--r-- 1 luxcium luxcium  742 17 fév 17:01 folder-stylus.svg
+-rw-r--r-- 1 luxcium luxcium  677 17 fév 17:01 folder-sublime-open.svg
+-rw-r--r-- 1 luxcium luxcium  663 17 fév 17:01 folder-sublime.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 folder-svelte-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 folder-svelte.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-svg-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 folder-svg.svg
+-rw-r--r-- 1 luxcium luxcium  576 17 fév 17:01 folder-syntax-open.svg
+-rw-r--r-- 1 luxcium luxcium  547 17 fév 17:01 folder-syntax.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-target-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-target.svg
+-rw-r--r-- 1 luxcium luxcium  683 17 fév 17:01 folder-tasks-open.svg
+-rw-r--r-- 1 luxcium luxcium  694 17 fév 17:01 folder-tasks.svg
+-rw-r--r-- 1 luxcium luxcium  467 17 fév 17:01 folder-template-open.svg
+-rw-r--r-- 1 luxcium luxcium  478 17 fév 17:01 folder-template.svg
+-rw-r--r-- 1 luxcium luxcium  711 17 fév 17:01 folder-temp-open.svg
+-rw-r--r-- 1 luxcium luxcium  722 17 fév 17:01 folder-temp.svg
+-rw-r--r-- 1 luxcium luxcium  568 17 fév 17:01 folder-terraform-open.svg
+-rw-r--r-- 1 luxcium luxcium  575 17 fév 17:01 folder-terraform.svg
+-rw-r--r-- 1 luxcium luxcium  634 17 fév 17:01 folder-test-open.svg
+-rw-r--r-- 1 luxcium luxcium  605 17 fév 17:01 folder-test.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-theme-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-theme.svg
+-rw-r--r-- 1 luxcium luxcium  686 17 fév 17:01 folder-tools-open.svg
+-rw-r--r-- 1 luxcium luxcium  697 17 fév 17:01 folder-tools.svg
+-rw-r--r-- 1 luxcium luxcium 1,8K 17 fév 17:01 folder-typescript-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,8K 17 fév 17:01 folder-typescript.svg
+-rw-r--r-- 1 luxcium luxcium  612 17 fév 17:01 folder-unity-open.svg
+-rw-r--r-- 1 luxcium luxcium  623 17 fév 17:01 folder-unity.svg
+-rw-r--r-- 1 luxcium luxcium  690 17 fév 17:01 folder-update-open.svg
+-rw-r--r-- 1 luxcium luxcium  701 17 fév 17:01 folder-update.svg
+-rw-r--r-- 1 luxcium luxcium  484 17 fév 17:01 folder-upload-open.svg
+-rw-r--r-- 1 luxcium luxcium  495 17 fév 17:01 folder-upload.svg
+-rw-r--r-- 1 luxcium luxcium  657 17 fév 17:01 folder-utils-open.svg
+-rw-r--r-- 1 luxcium luxcium  666 17 fév 17:01 folder-utils.svg
+-rw-r--r-- 1 luxcium luxcium  289 17 fév 17:01 folder-vercel-open.svg
+-rw-r--r-- 1 luxcium luxcium  264 17 fév 17:01 folder-vercel.svg
+-rw-r--r-- 1 luxcium luxcium  536 17 fév 17:01 folder-verdaccio-open.svg
+-rw-r--r-- 1 luxcium luxcium  486 17 fév 17:01 folder-verdaccio.svg
+-rw-r--r-- 1 luxcium luxcium  573 17 fév 17:01 folder-video-open.svg
+-rw-r--r-- 1 luxcium luxcium  584 17 fév 17:01 folder-video.svg
+-rw-r--r-- 1 luxcium luxcium  645 17 fév 17:01 folder-views-open.svg
+-rw-r--r-- 1 luxcium luxcium  616 17 fév 17:01 folder-views.svg
+-rw-r--r-- 1 luxcium luxcium  513 17 fév 17:01 folder-vm-open.svg
+-rw-r--r-- 1 luxcium luxcium  484 17 fév 17:01 folder-vm.svg
+-rw-r--r-- 1 luxcium luxcium  517 17 fév 17:01 folder-vscode-open.svg
+-rw-r--r-- 1 luxcium luxcium  493 17 fév 17:01 folder-vscode.svg
+-rw-r--r-- 1 luxcium luxcium  642 17 fév 17:01 folder-vue-directives-open.svg
+-rw-r--r-- 1 luxcium luxcium  673 17 fév 17:01 folder-vue-directives.svg
+-rw-r--r-- 1 luxcium luxcium  615 17 fév 17:01 folder-vue-open.svg
+-rw-r--r-- 1 luxcium luxcium  687 17 fév 17:01 folder-vuepress-open.svg
+-rw-r--r-- 1 luxcium luxcium  675 17 fév 17:01 folder-vuepress.svg
+-rw-r--r-- 1 luxcium luxcium  628 17 fév 17:01 folder-vue.svg
+-rw-r--r-- 1 luxcium luxcium  538 17 fév 17:01 folder-vuex-store-open.svg
+-rw-r--r-- 1 luxcium luxcium  508 17 fév 17:01 folder-vuex-store.svg
+-rw-r--r-- 1 luxcium luxcium  894 17 fév 17:01 folder-wakatime-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 folder-wakatime.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-webpack-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-webpack.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-wordpress-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-wordpress.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-yarn-open.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 folder-yarn.svg
+-rw-r--r-- 1 luxcium luxcium  206 17 fév 17:01 font.svg
+-rw-r--r-- 1 luxcium luxcium  732 17 fév 17:01 forth.svg
+-rw-r--r-- 1 luxcium luxcium  690 17 fév 17:01 fortran.svg
+-rw-r--r-- 1 luxcium luxcium 8,0K 17 fév 17:01 foxpro.svg
+-rw-r--r-- 1 luxcium luxcium  344 17 fév 17:01 fsharp.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 fusebox.svg
+-rw-r--r-- 1 luxcium luxcium  840 17 fév 17:01 gatsby.svg
+-rw-r--r-- 1 luxcium luxcium  917 17 fév 17:01 gcp.svg
+-rw-r--r-- 1 luxcium luxcium  514 17 fév 17:01 gemfile.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 gemini.svg
+-rw-r--r-- 1 luxcium luxcium 1010 17 fév 17:01 gitlab.svg
+-rw-r--r-- 1 luxcium luxcium  760 17 fév 17:01 gitpod.svg
+-rw-r--r-- 1 luxcium luxcium  520 17 fév 17:01 git.svg
+-rw-r--r-- 1 luxcium luxcium 2,8K 17 fév 17:01 gleam.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 godot-assets.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 godot.svg
+-rw-r--r-- 1 luxcium luxcium 2,1K 17 fév 17:01 go_gopher.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 go-mod.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 go.svg
+-rw-r--r-- 1 luxcium luxcium  765 17 fév 17:01 gradle.svg
+-rw-r--r-- 1 luxcium luxcium  575 17 fév 17:01 grain.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 graphcool.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 graphql.svg
+-rw-r--r-- 1 luxcium luxcium  852 17 fév 17:01 gridsome.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 groovy.svg
+-rw-r--r-- 1 luxcium luxcium  20K 17 fév 17:01 grunt.svg
+-rw-r--r-- 1 luxcium luxcium  397 17 fév 17:01 gulp.svg
+-rw-r--r-- 1 luxcium luxcium  402 17 fév 17:01 hack.svg
+-rw-r--r-- 1 luxcium luxcium 2,1K 17 fév 17:01 haml.svg
+-rw-r--r-- 1 luxcium luxcium  855 17 fév 17:01 handlebars.svg
+-rw-r--r-- 1 luxcium luxcium  415 17 fév 17:01 hardhat.svg
+-rw-r--r-- 1 luxcium luxcium  436 17 fév 17:01 haskell.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 haxe.svg
+-rw-r--r-- 1 luxcium luxcium  673 17 fév 17:01 hcl_light.svg
+-rw-r--r-- 1 luxcium luxcium  673 17 fév 17:01 hcl.svg
+-rw-r--r-- 1 luxcium luxcium 3,9K 17 fév 17:01 helm.svg
+-rw-r--r-- 1 luxcium luxcium  664 17 fév 17:01 heroku.svg
+-rw-r--r-- 1 luxcium luxcium  407 17 fév 17:01 hex.svg
+-rw-r--r-- 1 luxcium luxcium 3,0K 17 fév 17:01 horusec.svg
+-rw-r--r-- 1 luxcium luxcium  363 17 fév 17:01 hpp.svg
+-rw-r--r-- 1 luxcium luxcium  271 17 fév 17:01 h.svg
+-rw-r--r-- 1 luxcium luxcium  261 17 fév 17:01 html.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 http.svg
+-rw-r--r-- 1 luxcium luxcium  942 17 fév 17:01 husky.svg
+-rw-r--r-- 1 luxcium luxcium  634 17 fév 17:01 i18n.svg
+-rw-r--r-- 1 luxcium luxcium 6,8K 17 fév 17:01 idris.svg
+-rw-r--r-- 1 luxcium luxcium  457 17 fév 17:01 image.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 imba.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 ionic.svg
+-rw-r--r-- 1 luxcium luxcium 5,5K 17 fév 17:01 istanbul.svg
+-rw-r--r-- 1 luxcium luxcium  391 17 fév 17:01 jar.svg
+-rw-r--r-- 1 luxcium luxcium  193 17 fév 17:01 javaclass.svg
+-rw-r--r-- 1 luxcium luxcium  729 17 fév 17:01 javascript-map.svg
+-rw-r--r-- 1 luxcium luxcium  570 17 fév 17:01 javascript.svg
+-rw-r--r-- 1 luxcium luxcium  193 17 fév 17:01 java.svg
+-rw-r--r-- 1 luxcium luxcium  16K 17 fév 17:01 jenkins.svg
+-rw-r--r-- 1 luxcium luxcium 2,1K 17 fév 17:01 jest.svg
+-rw-r--r-- 1 luxcium luxcium  499 17 fév 17:01 jinja_light.svg
+-rw-r--r-- 1 luxcium luxcium  525 17 fév 17:01 jinja.svg
+-rw-r--r-- 1 luxcium luxcium  816 17 fév 17:01 jsconfig.svg
+-rw-r--r-- 1 luxcium luxcium  940 17 fév 17:01 json.svg
+-rw-r--r-- 1 luxcium luxcium  282 17 fév 17:01 julia.svg
+-rw-r--r-- 1 luxcium luxcium  853 17 fév 17:01 jupyter.svg
+-rw-r--r-- 1 luxcium luxcium  313 17 fév 17:01 karma.svg
+-rw-r--r-- 1 luxcium luxcium  248 17 fév 17:01 key.svg
+-rw-r--r-- 1 luxcium luxcium  406 17 fév 17:01 kivy.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 kl.svg
+-rw-r--r-- 1 luxcium luxcium  801 17 fév 17:01 kotlin.svg
+-rw-r--r-- 1 luxcium luxcium  727 17 fév 17:01 kusto.svg
+-rw-r--r-- 1 luxcium luxcium 2,0K 17 fév 17:01 laravel.svg
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 lerna.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 less.svg
+-rw-r--r-- 1 luxcium luxcium  233 17 fév 17:01 lib.svg
+-rw-r--r-- 1 luxcium luxcium  371 17 fév 17:01 lighthouse.svg
+-rw-r--r-- 1 luxcium luxcium  303 17 fév 17:01 lilypond.svg
+-rw-r--r-- 1 luxcium luxcium  240 17 fév 17:01 liquid.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 lisp.svg
+-rw-r--r-- 1 luxcium luxcium  563 17 fév 17:01 livescript.svg
+-rw-r--r-- 1 luxcium luxcium  304 17 fév 17:01 lock.svg
+-rw-r--r-- 1 luxcium luxcium  328 17 fév 17:01 log.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 lolcode.svg
+-rw-r--r-- 1 luxcium luxcium  577 17 fév 17:01 lua.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 makefile.svg
+-rw-r--r-- 1 luxcium luxcium  178 17 fév 17:01 markdown.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 markojs.svg
+-rw-r--r-- 1 luxcium luxcium 4,0K 17 fév 17:01 mathematica.svg
+-rw-r--r-- 1 luxcium luxcium  964 17 fév 17:01 matlab.svg
+-rw-r--r-- 1 luxcium luxcium  819 17 fév 17:01 maven.svg
+-rw-r--r-- 1 luxcium luxcium  194 17 fév 17:01 mdsvex.svg
+-rw-r--r-- 1 luxcium luxcium  199 17 fév 17:01 mdx.svg
+-rw-r--r-- 1 luxcium luxcium  271 17 fév 17:01 merlin.svg
+-rw-r--r-- 1 luxcium luxcium  527 17 fév 17:01 meson.svg
+-rw-r--r-- 1 luxcium luxcium  389 17 fév 17:01 minecraft.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 mint.svg
+-rw-r--r-- 1 luxcium luxcium  879 17 fév 17:01 mjml.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 mocha.svg
+-rw-r--r-- 1 luxcium luxcium  193 17 fév 17:01 modernizr.svg
+-rw-r--r-- 1 luxcium luxcium  638 17 fév 17:01 moonscript.svg
+-rw-r--r-- 1 luxcium luxcium  310 17 fév 17:01 mxml.svg
+-rw-r--r-- 1 luxcium luxcium  455 17 fév 17:01 nano-staged_light.svg
+-rw-r--r-- 1 luxcium luxcium  439 17 fév 17:01 nano-staged.svg
+-rw-r--r-- 1 luxcium luxcium 1007 17 fév 17:01 ndst.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-controller.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-decorator.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-filter.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-gateway.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-guard.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-middleware.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-module.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-pipe.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-resolver.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest-service.svg
+-rw-r--r-- 1 luxcium luxcium 5,0K 17 fév 17:01 nest.svg
+-rw-r--r-- 1 luxcium luxcium 3,7K 17 fév 17:01 netlify.svg
+-rw-r--r-- 1 luxcium luxcium  383 17 fév 17:01 next_light.svg
+-rw-r--r-- 1 luxcium luxcium  383 17 fév 17:01 next.svg
+-rw-r--r-- 1 luxcium luxcium  672 17 fév 17:01 nginx.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 ngrx-actions.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 ngrx-effects.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 ngrx-entity.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 ngrx-reducer.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 ngrx-selectors.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 ngrx-state.svg
+-rw-r--r-- 1 luxcium luxcium  301 17 fév 17:01 nim.svg
+-rw-r--r-- 1 luxcium luxcium 4,2K 17 fév 17:01 nix.svg
+-rw-r--r-- 1 luxcium luxcium  816 17 fév 17:01 nodejs_alt.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 nodejs.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 nodemon.svg
+-rw-r--r-- 1 luxcium luxcium  235 17 fév 17:01 npm.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 nrwl.svg
+-rw-r--r-- 1 luxcium luxcium  564 17 fév 17:01 nuget.svg
+-rw-r--r-- 1 luxcium luxcium  254 17 fév 17:01 nunjucks.svg
+-rw-r--r-- 1 luxcium luxcium  557 17 fév 17:01 nuxt.svg
+-rw-r--r-- 1 luxcium luxcium 2,4K 17 fév 17:01 ocaml.svg
+-rw-r--r-- 1 luxcium luxcium  833 17 fév 17:01 odin.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 opam.svg
+-rw-r--r-- 1 luxcium luxcium  855 17 fév 17:01 opa.svg
+-rw-r--r-- 1 luxcium luxcium  535 17 fév 17:01 otne.svg
+-rw-r--r-- 1 luxcium luxcium  558 17 fév 17:01 parcel.svg
+-rw-r--r-- 1 luxcium luxcium  338 17 fév 17:01 pascal.svg
+-rw-r--r-- 1 luxcium luxcium  271 17 fév 17:01 pawn.svg
+-rw-r--r-- 1 luxcium luxcium  986 17 fév 17:01 pdf.svg
+-rw-r--r-- 1 luxcium luxcium 1,8K 17 fév 17:01 percy.svg
+-rw-r--r-- 1 luxcium luxcium  553 17 fév 17:01 perl.svg
+-rw-r--r-- 1 luxcium luxcium  679 17 fév 17:01 php-cs-fixer.svg
+-rw-r--r-- 1 luxcium luxcium 2,2K 17 fév 17:01 php_elephant_pink.svg
+-rw-r--r-- 1 luxcium luxcium 2,2K 17 fév 17:01 php_elephant.svg
+-rw-r--r-- 1 luxcium luxcium  921 17 fév 17:01 php.svg
+-rw-r--r-- 1 luxcium luxcium  533 17 fév 17:01 phpunit.svg
+-rw-r--r-- 1 luxcium luxcium  964 17 fév 17:01 pinejs.svg
+-rw-r--r-- 1 luxcium luxcium  402 17 fév 17:01 pipeline.svg
+-rw-r--r-- 1 luxcium luxcium 1018 17 fév 17:01 playwright.svg
+-rw-r--r-- 1 luxcium luxcium 1014 17 fév 17:01 plop.svg
+-rw-r--r-- 1 luxcium luxcium  487 17 fév 17:01 pnpm_light.svg
+-rw-r--r-- 1 luxcium luxcium  507 17 fév 17:01 pnpm.svg
+-rw-r--r-- 1 luxcium luxcium  305 17 fév 17:01 poetry.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 postcss.svg
+-rw-r--r-- 1 luxcium luxcium 3,1K 17 fév 17:01 posthtml.svg
+-rw-r--r-- 1 luxcium luxcium  270 17 fév 17:01 powerpoint.svg
+-rw-r--r-- 1 luxcium luxcium  618 17 fév 17:01 powershell.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 prettier.svg
+-rw-r--r-- 1 luxcium luxcium  553 17 fév 17:01 prisma.svg
+-rw-r--r-- 1 luxcium luxcium  160 17 fév 17:01 processing.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 prolog.svg
+-rw-r--r-- 1 luxcium luxcium  401 17 fév 17:01 proto.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 protractor.svg
+-rw-r--r-- 1 luxcium luxcium 5,3K 17 fév 17:01 pug.svg
+-rw-r--r-- 1 luxcium luxcium  336 17 fév 17:01 puppet.svg
+-rw-r--r-- 1 luxcium luxcium  681 17 fév 17:01 purescript.svg
+-rw-r--r-- 1 luxcium luxcium  984 17 fév 17:01 python-misc.svg
+-rw-r--r-- 1 luxcium luxcium  794 17 fév 17:01 python.svg
+-rw-r--r-- 1 luxcium luxcium  900 17 fév 17:01 qsharp.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 quasar.svg
+-rw-r--r-- 1 luxcium luxcium  783 17 fév 17:01 racket.svg
+-rw-r--r-- 1 luxcium luxcium  524 17 fév 17:01 raml.svg
+-rw-r--r-- 1 luxcium luxcium  793 17 fév 17:01 razor.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 react.svg
+-rw-r--r-- 1 luxcium luxcium 1,8K 17 fév 17:01 react_ts.svg
+-rw-r--r-- 1 luxcium luxcium  194 17 fév 17:01 readme.svg
+-rw-r--r-- 1 luxcium luxcium  615 17 fév 17:01 reason.svg
+-rw-r--r-- 1 luxcium luxcium  726 17 fév 17:01 red.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 redux-action.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 redux-reducer.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 redux-selector.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 redux-store.svg
+-rw-r--r-- 1 luxcium luxcium 1013 17 fév 17:01 remix_light.svg
+-rw-r--r-- 1 luxcium luxcium 1013 17 fév 17:01 remix.svg
+-rw-r--r-- 1 luxcium luxcium  364 17 fév 17:01 renovate.svg
+-rw-r--r-- 1 luxcium luxcium  423 17 fév 17:01 replit.svg
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 rescript-interface.svg
+-rw-r--r-- 1 luxcium luxcium  937 17 fév 17:01 rescript.svg
+-rw-r--r-- 1 luxcium luxcium 9,2K 17 fév 17:01 restql.svg
+-rw-r--r-- 1 luxcium luxcium  727 17 fév 17:01 riot.svg
+-rw-r--r-- 1 luxcium luxcium  274 17 fév 17:01 roadmap.svg
+-rw-r--r-- 1 luxcium luxcium  765 17 fév 17:01 robots.svg
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 robot.svg
+-rw-r--r-- 1 luxcium luxcium  738 17 fév 17:01 rollup.svg
+-rw-r--r-- 1 luxcium luxcium  802 17 fév 17:01 rome.svg
+-rw-r--r-- 1 luxcium luxcium  187 17 fév 17:01 routing.svg
+-rw-r--r-- 1 luxcium luxcium  739 17 fév 17:01 r.svg
+-rw-r--r-- 1 luxcium luxcium 2,9K 17 fév 17:01 rubocop_light.svg
+-rw-r--r-- 1 luxcium luxcium 2,9K 17 fév 17:01 rubocop.svg
+-rw-r--r-- 1 luxcium luxcium  521 17 fév 17:01 ruby.svg
+-rw-r--r-- 1 luxcium luxcium 3,5K 17 fév 17:01 rust.svg
+-rw-r--r-- 1 luxcium luxcium  571 17 fév 17:01 salesforce.svg
+-rw-r--r-- 1 luxcium luxcium  449 17 fév 17:01 san.svg
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 sass.svg
+-rw-r--r-- 1 luxcium luxcium  707 17 fév 17:01 sas.svg
+-rw-r--r-- 1 luxcium luxcium  581 17 fév 17:01 sbt.svg
+-rw-r--r-- 1 luxcium luxcium  521 17 fév 17:01 scala.svg
+-rw-r--r-- 1 luxcium luxcium  283 17 fév 17:01 scheme.svg
+-rw-r--r-- 1 luxcium luxcium  627 17 fév 17:01 search.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 semantic-release_light.svg
+-rw-r--r-- 1 luxcium luxcium 2,3K 17 fév 17:01 semantic-release.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 sentry.svg
+-rw-r--r-- 1 luxcium luxcium 3,0K 17 fév 17:01 sequelize.svg
+-rw-r--r-- 1 luxcium luxcium  302 17 fév 17:01 serverless.svg
+-rw-r--r-- 1 luxcium luxcium  766 17 fév 17:01 settings.svg
+-rw-r--r-- 1 luxcium luxcium  334 17 fév 17:01 shaderlab.svg
+-rw-r--r-- 1 luxcium luxcium  316 17 fév 17:01 shader.svg
+-rw-r--r-- 1 luxcium luxcium  750 17 fév 17:01 silverstripe.svg
+-rw-r--r-- 1 luxcium luxcium  345 17 fév 17:01 siyuan.svg
+-rw-r--r-- 1 luxcium luxcium  374 17 fév 17:01 sketch.svg
+-rw-r--r-- 1 luxcium luxcium  347 17 fév 17:01 slim.svg
+-rw-r--r-- 1 luxcium luxcium 2,2K 17 fév 17:01 slug.svg
+-rw-r--r-- 1 luxcium luxcium  585 17 fév 17:01 smarty.svg
+-rw-r--r-- 1 luxcium luxcium  293 17 fév 17:01 sml.svg
+-rw-r--r-- 1 luxcium luxcium  340 17 fév 17:01 snowpack_light.svg
+-rw-r--r-- 1 luxcium luxcium  340 17 fév 17:01 snowpack.svg
+-rw-r--r-- 1 luxcium luxcium 2,7K 17 fév 17:01 snyk.svg
+-rw-r--r-- 1 luxcium luxcium  210 17 fév 17:01 solidity.svg
+-rw-r--r-- 1 luxcium luxcium  823 17 fév 17:01 steadybit.svg
+-rw-r--r-- 1 luxcium luxcium  283 17 fév 17:01 stencil.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 stitches_light.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 stitches.svg
+-rw-r--r-- 1 luxcium luxcium  672 17 fév 17:01 storybook.svg
+-rw-r--r-- 1 luxcium luxcium 2,4K 17 fév 17:01 stryker.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 stylelint_light.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 stylelint.svg
+-rw-r--r-- 1 luxcium luxcium  594 17 fév 17:01 stylus.svg
+-rw-r--r-- 1 luxcium luxcium  549 17 fév 17:01 sublime.svg
+-rw-r--r-- 1 luxcium luxcium 1,8K 17 fév 17:01 svelte.svg
+-rw-r--r-- 1 luxcium luxcium 2,0K 17 fév 17:01 svgo.svg
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 svgr.svg
+-rw-r--r-- 1 luxcium luxcium  761 17 fév 17:01 svg.svg
+-rw-r--r-- 1 luxcium luxcium  323 17 fév 17:01 swc.svg
+-rw-r--r-- 1 luxcium luxcium  513 17 fév 17:01 swift.svg
+-rw-r--r-- 1 luxcium luxcium  277 17 fév 17:01 table.svg
+-rw-r--r-- 1 luxcium luxcium  466 17 fév 17:01 tailwindcss.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 tauri.svg
+-rw-r--r-- 1 luxcium luxcium  490 17 fév 17:01 tcl.svg
+-rw-r--r-- 1 luxcium luxcium  268 17 fév 17:01 teal.svg
+-rw-r--r-- 1 luxcium luxcium  408 17 fév 17:01 template.svg
+-rw-r--r-- 1 luxcium luxcium  347 17 fév 17:01 terraform.svg
+-rw-r--r-- 1 luxcium luxcium  482 17 fév 17:01 test-js.svg
+-rw-r--r-- 1 luxcium luxcium  476 17 fév 17:01 test-jsx.svg
+-rw-r--r-- 1 luxcium luxcium  482 17 fév 17:01 test-ts.svg
+-rw-r--r-- 1 luxcium luxcium  608 17 fév 17:01 tex.svg
+-rw-r--r-- 1 luxcium luxcium  392 17 fév 17:01 textlint.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 tilt.svg
+-rw-r--r-- 1 luxcium luxcium  385 17 fév 17:01 tobimake.svg
+-rw-r--r-- 1 luxcium luxcium  228 17 fév 17:01 tobi.svg
+-rw-r--r-- 1 luxcium luxcium  232 17 fév 17:01 todo.svg
+-rw-r--r-- 1 luxcium luxcium  23K 17 fév 17:01 travis.svg
+-rw-r--r-- 1 luxcium luxcium  179 17 fév 17:01 tree.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 tsconfig.svg
+-rw-r--r-- 1 luxcium luxcium  380 17 fév 17:01 tune.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 turborepo_light.svg
+-rw-r--r-- 1 luxcium luxcium 1,6K 17 fév 17:01 turborepo.svg
+-rw-r--r-- 1 luxcium luxcium 2,9K 17 fév 17:01 twig.svg
+-rw-r--r-- 1 luxcium luxcium  400 17 fév 17:01 twine.svg
+-rw-r--r-- 1 luxcium luxcium 1,9K 17 fév 17:01 typescript-def.svg
+-rw-r--r-- 1 luxcium luxcium 1,9K 17 fév 17:01 typescript.svg
+-rw-r--r-- 1 luxcium luxcium  931 17 fév 17:01 uml_light.svg
+-rw-r--r-- 1 luxcium luxcium  915 17 fév 17:01 uml.svg
+-rw-r--r-- 1 luxcium luxcium  301 17 fév 17:01 url.svg
+-rw-r--r-- 1 luxcium luxcium  685 17 fév 17:01 vagrant.svg
+-rw-r--r-- 1 luxcium luxcium 2,6K 17 fév 17:01 vala.svg
+-rw-r--r-- 1 luxcium luxcium  797 17 fév 17:01 velocity.svg
+-rw-r--r-- 1 luxcium luxcium  154 17 fév 17:01 vercel_light.svg
+-rw-r--r-- 1 luxcium luxcium  166 17 fév 17:01 vercel.svg
+-rw-r--r-- 1 luxcium luxcium  338 17 fév 17:01 verdaccio.svg
+-rw-r--r-- 1 luxcium luxcium  537 17 fév 17:01 verilog.svg
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 vfl.svg
+-rw-r--r-- 1 luxcium luxcium  193 17 fév 17:01 video.svg
+-rw-r--r-- 1 luxcium luxcium  306 17 fév 17:01 vim.svg
+-rw-r--r-- 1 luxcium luxcium  281 17 fév 17:01 virtual.svg
+-rw-r--r-- 1 luxcium luxcium  320 17 fév 17:01 visualstudio.svg
+-rw-r--r-- 1 luxcium luxcium  125 17 fév 17:01 vite.svg
+-rw-r--r-- 1 luxcium luxcium  562 17 fév 17:01 vlang.svg
+-rw-r--r-- 1 luxcium luxcium  270 17 fév 17:01 vscode.svg
+-rw-r--r-- 1 luxcium luxcium  529 17 fév 17:01 vue-config.svg
+-rw-r--r-- 1 luxcium luxcium  329 17 fév 17:01 vue.svg
+-rw-r--r-- 1 luxcium luxcium  453 17 fév 17:01 vuex-store.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 wakatime_light.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 wakatime.svg
+-rw-r--r-- 1 luxcium luxcium  209 17 fév 17:01 wallaby.svg
+-rw-r--r-- 1 luxcium luxcium 3,0K 17 fév 17:01 watchman.svg
+-rw-r--r-- 1 luxcium luxcium  680 17 fév 17:01 webassembly.svg
+-rw-r--r-- 1 luxcium luxcium  874 17 fév 17:01 webhint.svg
+-rw-r--r-- 1 luxcium luxcium  753 17 fév 17:01 webpack.svg
+-rw-r--r-- 1 luxcium luxcium  454 17 fév 17:01 wepy.svg
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 windicss.svg
+-rw-r--r-- 1 luxcium luxcium 1,9K 17 fév 17:01 wolframlanguage.svg
+-rw-r--r-- 1 luxcium luxcium  259 17 fév 17:01 word.svg
+-rw-r--r-- 1 luxcium luxcium  234 17 fév 17:01 xaml.svg
+-rw-r--r-- 1 luxcium luxcium  310 17 fév 17:01 xml.svg
+-rw-r--r-- 1 luxcium luxcium  201 17 fév 17:01 yaml.svg
+-rw-r--r-- 1 luxcium luxcium  445 17 fév 17:01 yang.svg
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 yarn.svg
+-rw-r--r-- 1 luxcium luxcium  492 17 fév 17:01 zig.svg
+-rw-r--r-- 1 luxcium luxcium  231 17 fév 17:01 zip.svg
+
+./images:
+total 2,2M
+-rw-rw-r--. 1 luxcium luxcium  64K 27 oct  2022 commandPalette.png
+-rw-r--r--  1 luxcium luxcium 951K 24 avr 21:07 contributors.png
+-rw-r--r--  1 luxcium luxcium 798K 24 avr 21:07 fileIcons.png
+-rw-r--r--  1 luxcium luxcium 323K 24 avr 21:07 folderIcons.png
+drwxr-xr-x  2 luxcium luxcium 4,0K 24 avr 21:07 how-tos
+-rw-rw-r--. 1 luxcium luxcium  62K 27 oct  2022 set-folder-color.gif
+-rw-rw-r--. 1 luxcium luxcium  33K 27 oct  2022 set-folder-theme.gif
+
+./images/how-tos:
+total 308K
+-rw-r--r-- 1 luxcium luxcium 1,1K 24 avr 21:07 aligned-vs-missaligned.png
+-rw-r--r-- 1 luxcium luxcium  957 24 avr 21:07 blurry-issue.png
+-rw-r--r-- 1 luxcium luxcium  388 24 avr 21:07 elephant-less-detail.svg
+-rw-r--r-- 1 luxcium luxcium 1,1K 24 avr 21:07 elephant-result.png
+-rw-r--r-- 1 luxcium luxcium 2,2K 24 avr 21:07 elephant-too-much-detail.svg
+-rw-r--r-- 1 luxcium luxcium 4,1K 24 avr 21:07 elephant-with-grid.svg
+-rw-r--r-- 1 luxcium luxcium  705 24 avr 21:07 folder-icon-parts.svg
+-rw-r--r-- 1 luxcium luxcium 4,4K 24 avr 21:07 missaligned-icon.svg
+-rw-r--r-- 1 luxcium luxcium  678 24 avr 21:07 missaligned-result.svg
+-rw-r--r-- 1 luxcium luxcium  21K 17 fév 17:01 pick-folder-colors.png
+-rw-r--r-- 1 luxcium luxcium  20K 17 fév 17:01 pick-folder-colors.svg
+-rw-r--r-- 1 luxcium luxcium 4,2K 24 avr 21:07 pixel-perfect-icon.svg
+-rw-r--r-- 1 luxcium luxcium  420 24 avr 21:07 svg-folder-icon-with-correct-colors.svg
+-rw-r--r-- 1 luxcium luxcium  420 24 avr 21:07 svg-folder-icon-with-wrong-colors.svg
+-rw-r--r-- 1 luxcium luxcium  42K 17 fév 17:01 svg-with-light-color.png
+-rw-r--r-- 1 luxcium luxcium  40K 17 fév 17:01 svg-without-spacing.png
+-rw-r--r-- 1 luxcium luxcium  42K 17 fév 17:01 svg-with-spacing.png
+-rw-r--r-- 1 luxcium luxcium  32K 17 fév 17:01 svg-with-too-dark-color.png
+-rw-r--r-- 1 luxcium luxcium  41K 17 fév 17:01 svg-with-wrong-color.png
+
+./src:
+total 36K
+drwxr-xr-x. 2 luxcium luxcium 4,0K 17 fév 17:01 commands
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 extension.ts
+drwxr-xr-x. 2 luxcium luxcium 4,0K 17 fév 17:01 helpers
+drwxr-xr-x. 2 luxcium luxcium 4,0K 24 avr 21:07 i18n
+drwxr-xr-x. 4 luxcium luxcium 4,0K 24 avr 21:07 icons
+drwxr-xr-x. 6 luxcium luxcium 4,0K 24 avr 21:07 models
+drwxr-xr-x. 6 luxcium luxcium 4,0K 27 oct  2022 scripts
+drwxr-xr-x. 3 luxcium luxcium 4,0K 17 fév 17:01 test
+drwxr-xr-x. 2 luxcium luxcium 4,0K 27 oct  2022 web
+
+./src/commands:
+total 44K
+-rw-r--r-- 1 luxcium luxcium  775 17 fév 17:01 activate.ts
+-rw-r--r-- 1 luxcium luxcium 1,8K 17 fév 17:01 explorerArrows.ts
+-rw-r--r-- 1 luxcium luxcium 2,8K 17 fév 17:01 fileColor.ts
+-rw-r--r-- 1 luxcium luxcium 2,9K 17 fév 17:01 folderColor.ts
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 folders.ts
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 grayscale.ts
+-rw-r--r-- 1 luxcium luxcium 2,1K 17 fév 17:01 iconPacks.ts
+-rw-r--r-- 1 luxcium luxcium 1,1K 17 fév 17:01 index.ts
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 opacity.ts
+-rw-r--r-- 1 luxcium luxcium  744 17 fév 17:01 restoreConfig.ts
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 saturation.ts
+
+./src/helpers:
+total 24K
+-rw-rw-r--. 1 luxcium luxcium 3,2K 27 oct  2022 changeDetection.ts
+-rw-r--r--  1 luxcium luxcium  355 17 fév 17:01 customIcons.ts
+-rw-r--r--  1 luxcium luxcium 1,1K 17 fév 17:01 fileConfig.ts
+-rw-r--r--  1 luxcium luxcium 2,7K 17 fév 17:01 index.ts
+-rw-rw-r--. 1 luxcium luxcium 1,5K 27 oct  2022 objects.ts
+-rw-rw-r--. 1 luxcium luxcium  200 27 oct  2022 types.ts
+
+./src/i18n:
+total 64K
+-rw-r--r-- 1 luxcium luxcium 2,4K 17 fév 17:01 index.ts
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 lang-cs.ts
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 lang-de.ts
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 lang-en.ts
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 lang-es.ts
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 lang-fr.ts
+-rw-r--r-- 1 luxcium luxcium 1,5K 17 fév 17:01 lang-ja.ts
+-rw-r--r-- 1 luxcium luxcium 1,4K 24 avr 21:07 lang-ko.ts
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 lang-nl.ts
+-rw-r--r-- 1 luxcium luxcium 1,3K 17 fév 17:01 lang-pl.ts
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 lang-pt-br.ts
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 lang-pt-pt.ts
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 lang-ru.ts
+-rw-r--r-- 1 luxcium luxcium 1,7K 17 fév 17:01 lang-uk.ts
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 lang-zh-cn.ts
+-rw-r--r-- 1 luxcium luxcium 1,2K 17 fév 17:01 lang-zh-tw.ts
+
+./src/icons:
+total 104K
+-rw-r--r--  1 luxcium luxcium  60K 24 avr 21:07 fileIcons.ts
+-rw-r--r--  1 luxcium luxcium  23K 24 avr 21:07 folderIcons.ts
+drwxr-xr-x. 2 luxcium luxcium 4,0K 24 avr 21:07 generator
+-rw-rw-r--. 1 luxcium luxcium  122 27 oct  2022 index.ts
+-rw-r--r--  1 luxcium luxcium 7,3K 17 fév 17:01 languageIcons.ts
+drwxr-xr-x  2 luxcium luxcium 4,0K 24 avr 21:07 patterns
+
+./src/icons/generator:
+total 52K
+-rw-rw-r--. 1 luxcium luxcium  666 27 oct  2022 constants.ts
+-rw-r--r--  1 luxcium luxcium 6,1K 24 avr 21:07 fileGenerator.ts
+-rw-r--r--  1 luxcium luxcium 9,7K 24 avr 21:07 folderGenerator.ts
+-rw-r--r--  1 luxcium luxcium 3,3K 17 fév 17:01 iconOpacity.ts
+-rw-r--r--  1 luxcium luxcium 4,2K 17 fév 17:01 iconSaturation.ts
+-rw-rw-r--. 1 luxcium luxcium  232 27 oct  2022 index.ts
+-rw-r--r--  1 luxcium luxcium 5,9K 17 fév 17:01 jsonGenerator.ts
+-rw-rw-r--. 1 luxcium luxcium 3,3K 27 oct  2022 languageGenerator.ts
+
+./src/icons/patterns:
+total 8,0K
+-rw-r--r-- 1 luxcium luxcium  963 24 avr 21:07 libs.ts
+-rw-r--r-- 1 luxcium luxcium 1,7K 24 avr 21:07 utils.ts
+
+./src/models:
+total 24K
+drwxr-xr-x. 2 luxcium luxcium 4,0K 17 fév 17:01 i18n
+-rw-r--r--  1 luxcium luxcium  942 17 fév 17:01 iconConfiguration.ts
+drwxr-xr-x. 5 luxcium luxcium 4,0K 17 fév 17:01 icons
+-rw-r--r--  1 luxcium luxcium  114 24 avr 21:07 index.ts
+drwxr-xr-x  2 luxcium luxcium 4,0K 24 avr 21:07 patterns
+drwxr-xr-x. 3 luxcium luxcium 4,0K 27 oct  2022 scripts
+
+./src/models/i18n:
+total 8,0K
+-rw-rw-r--. 1 luxcium luxcium  31 27 oct  2022 index.ts
+-rw-r--r--  1 luxcium luxcium 735 17 fév 17:01 translation.ts
+
+./src/models/icons:
+total 28K
+-rw-rw-r--. 1 luxcium luxcium  270 27 oct  2022 defaultIcon.ts
+drwxr-xr-x. 2 luxcium luxcium 4,0K 27 oct  2022 files
+drwxr-xr-x. 2 luxcium luxcium 4,0K 27 oct  2022 folders
+-rw-r--r--  1 luxcium luxcium  436 17 fév 17:01 iconJsonOptions.ts
+-rw-r--r--  1 luxcium luxcium  238 17 fév 17:01 iconPack.ts
+-rw-rw-r--. 1 luxcium luxcium  175 27 oct  2022 index.ts
+drwxr-xr-x. 2 luxcium luxcium 4,0K 27 oct  2022 languages
+
+./src/models/icons/files:
+total 12K
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 fileIcon.ts
+-rw-rw-r--. 1 luxcium luxcium  259 27 oct  2022 fileTypes.ts
+-rw-rw-r--. 1 luxcium luxcium   57 27 oct  2022 index.ts
+
+./src/models/icons/folders:
+total 12K
+-rw-rw-r--. 1 luxcium luxcium 687 27 oct  2022 folderIcon.ts
+-rw-rw-r--. 1 luxcium luxcium 390 27 oct  2022 folderTheme.ts
+-rw-rw-r--. 1 luxcium luxcium  61 27 oct  2022 index.ts
+
+./src/models/icons/languages:
+total 8,0K
+-rw-rw-r--. 1 luxcium luxcium  38 27 oct  2022 index.ts
+-rw-rw-r--. 1 luxcium luxcium 596 27 oct  2022 languageIdentifier.ts
+
+./src/models/patterns:
+total 8,0K
+-rw-r--r-- 1 luxcium luxcium  28 24 avr 21:07 index.ts
+-rw-r--r-- 1 luxcium luxcium 320 24 avr 21:07 patterns.ts
+
+./src/models/scripts:
+total 4,0K
+drwxr-xr-x. 2 luxcium luxcium 4,0K 27 oct  2022 contributors
+
+./src/models/scripts/contributors:
+total 8,0K
+-rw-rw-r--. 1 luxcium luxcium 218 27 oct  2022 contributorsConfig.ts
+-rw-rw-r--. 1 luxcium luxcium 484 27 oct  2022 contributor.ts
+
+./src/scripts:
+total 16K
+drwxr-xr-x. 2 luxcium luxcium 4,0K 17 fév 17:01 contributors
+drwxr-xr-x. 2 luxcium luxcium 4,0K 17 fév 17:01 helpers
+drwxr-xr-x. 3 luxcium luxcium 4,0K 27 oct  2022 icons
+drwxr-xr-x. 2 luxcium luxcium 4,0K 17 fév 17:01 preview
+
+./src/scripts/contributors:
+total 8,0K
+-rw-rw-r--. 1 luxcium luxcium  237 27 oct  2022 contributors.css
+-rw-r--r--  1 luxcium luxcium 3,6K 17 fév 17:01 index.ts
+
+./src/scripts/helpers:
+total 16K
+-rw-rw-r--. 1 luxcium luxcium  227 27 oct  2022 painter.ts
+-rw-r--r--  1 luxcium luxcium  824 17 fév 17:01 screenshots.ts
+-rw-rw-r--. 1 luxcium luxcium 1,2K 27 oct  2022 similarity.ts
+-rw-rw-r--. 1 luxcium luxcium  208 27 oct  2022 titleCase.ts
+
+./src/scripts/icons:
+total 8,0K
+drwxr-xr-x. 2 luxcium luxcium 4,0K 17 fév 17:01 checks
+-rw-rw-r--. 1 luxcium luxcium  244 27 oct  2022 generateJson.ts
+
+./src/scripts/icons/checks:
+total 24K
+-rw-r--r-- 1 luxcium luxcium 6,0K 17 fév 17:01 checkIconAvailability.ts
+-rw-r--r-- 1 luxcium luxcium 4,2K 17 fév 17:01 checkIconConflicts.ts
+-rw-r--r-- 1 luxcium luxcium 3,9K 17 fév 17:01 checkIconUsage.ts
+-rw-r--r-- 1 luxcium luxcium  260 17 fév 17:01 index.ts
+
+./src/scripts/preview:
+total 12K
+-rw-rw-r--. 1 luxcium luxcium 1,1K 27 oct  2022 index.ts
+-rw-r--r--  1 luxcium luxcium 3,9K 17 fév 17:01 preview.ts
+-rw-rw-r--. 1 luxcium luxcium  675 27 oct  2022 style.css
+
+./src/test:
+total 8,0K
+-rw-r--r--  1 luxcium luxcium  751 17 fév 17:01 runTest.ts
+drwxr-xr-x. 4 luxcium luxcium 4,0K 27 oct  2022 spec
+
+./src/test/spec:
+total 12K
+drwxr-xr-x. 2 luxcium luxcium 4,0K 17 fév 17:01 i18n
+drwxr-xr-x. 2 luxcium luxcium 4,0K 24 avr 21:07 icons
+-rw-rw-r--. 1 luxcium luxcium  787 27 oct  2022 index.ts
+
+./src/test/spec/i18n:
+total 4,0K
+-rw-r--r-- 1 luxcium luxcium 1,4K 17 fév 17:01 i18n.spec.ts
+
+./src/test/spec/icons:
+total 36K
+-rw-r--r-- 1 luxcium luxcium 6,5K 17 fév 17:01 fileIcons.spec.ts
+-rw-r--r-- 1 luxcium luxcium  17K 24 avr 21:07 folderIcons.spec.ts
+-rw-r--r-- 1 luxcium luxcium 4,9K 17 fév 17:01 languageIcons.spec.ts
+
+./src/web:
+total 4,0K
+-rw-rw-r--. 1 luxcium luxcium 280 27 oct  2022 extension.ts
+
+./.vscode:
+total 16K
+-rw-rw-r--. 1 luxcium luxcium   78 27 oct  2022 extensions.json
+-rw-rw-r--. 1 luxcium luxcium 1,4K 27 oct  2022 launch.json
+-rw-r--r--  1 luxcium luxcium  395 24 avr 21:13 settings.json
+-rw-rw-r--. 1 luxcium luxcium  697 27 oct  2022 tasks.json
